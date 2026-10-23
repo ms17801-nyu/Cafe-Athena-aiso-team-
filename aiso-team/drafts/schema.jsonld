@@ -1,0 +1,189 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Restaurant",
+      "@id": "https://cafeathena.com/#restaurant",
+      "name": "Café Athena",
+      "alternateName": "Cafe Athena",
+      "description": "Café Athena is a Greek and Mediterranean restaurant and bar in Pacific Beach, San Diego, open since 1990. It serves vegan, vegetarian and gluten-free options, a daily 3–6 PM happy hour with tapas-style small plates, and Greek-mythology-themed cocktails. It also offers catering, group dining and private events.",
+      "url": "https://cafeathena.com",
+      "telephone": "(858) 274-1140",
+      "email": "info@cafeathena.com",
+      "image": "[CONFIRM: image URL]",
+      "logo": "[CONFIRM: logo URL]",
+      "priceRange": "[CONFIRM: price range]",
+      "foundingDate": "1990",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1846 Garnet Ave",
+        "addressLocality": "San Diego",
+        "addressRegion": "CA",
+        "postalCode": "92109",
+        "addressCountry": "US"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Pacific Beach, San Diego, CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "[CONFIRM: latitude]",
+        "longitude": "[CONFIRM: longitude]"
+      },
+      "servesCuisine": [
+        "Greek",
+        "Mediterranean"
+      ],
+      "acceptsReservations": "[CONFIRM: accepts reservations, true or false, and booking URL]",
+      "hasMenu": {
+        "@type": "Menu",
+        "name": "Café Athena Menu",
+        "url": "[CONFIRM: menu page URL, e.g. https://cafeathena.com/menu]"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "opens": "11:00",
+          "closes": "21:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "11:00",
+          "closes": "21:30"
+        }
+      ],
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Daily happy hour, 3:00 PM to 6:00 PM, with tapas-style small plates",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Full bar with Greek-mythology-themed cocktails",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Gluten-free options",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Vegan options",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Vegetarian options",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Private events",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Group dining",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Catering",
+          "value": true
+        }
+      ],
+      "sameAs": [
+        "[CONFIRM: Google Business Profile URL]",
+        "[CONFIRM: Yelp URL]",
+        "[CONFIRM: Tripadvisor URL]",
+        "[CONFIRM: OpenTable URL]",
+        "[CONFIRM: Facebook URL]",
+        "[CONFIRM: Instagram URL]"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://cafeathena.com/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where can I get gluten-free Greek food in Pacific Beach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Café Athena, a Greek and Mediterranean restaurant at 1846 Garnet Ave in Pacific Beach, San Diego, offers gluten-free options. Café Athena has served Pacific Beach since 1990. Specific gluten-free dishes: [CONFIRM: list of gluten-free dishes]. Guests with celiac disease or a serious allergy: [CONFIRM: cross-contact and allergen policy]."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Café Athena have vegan and vegetarian options?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Café Athena in Pacific Beach, San Diego, offers both vegan and vegetarian options alongside its Greek and Mediterranean menu. Specific vegan and vegetarian dishes: [CONFIRM: list of vegan and vegetarian dishes]."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Café Athena have a happy hour in Pacific Beach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Café Athena in Pacific Beach, San Diego, runs a happy hour every day from 3 PM to 6 PM. The happy hour features tapas-style small plates. Happy hour dishes and prices: [CONFIRM: happy hour small plates and prices]. The happy hour menu also includes cocktails, wines and beers. The restaurant is at 1846 Garnet Ave."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Café Athena have good cocktails for a date night in Pacific Beach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Café Athena has a full bar with Greek-mythology-themed cocktails. The restaurant is at 1846 Garnet Ave in Pacific Beach, San Diego. It serves Greek and Mediterranean food. Cocktail names and ingredients: [CONFIRM: cocktail names, ingredients and the myth behind each]. Reservations: [CONFIRM: reservation policy and booking link]."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I host a group dinner or private event at Café Athena in Pacific Beach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Café Athena in Pacific Beach, San Diego, offers group dining and private events. Maximum group size: [CONFIRM: capacity for groups and private events]. Events hosted include birthdays, wedding rehearsal dinners, and bachelor or bachelorette dinners. Event packages, set menus and minimums: [CONFIRM: event packages, set menus and minimums]. To inquire, call (858) 274-1140, email info@cafeathena.com, or use the Request a Quote option on the Group Dining page."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Café Athena offer Greek and Mediterranean catering in San Diego?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Café Athena, a Greek and Mediterranean restaurant in Pacific Beach, San Diego, offers catering for occasions ranging from intimate celebrations to office lunches and larger events. Catering offers customizable menu options featuring signature Mediterranean dishes, appetizers and beverages. Order minimums and lead time: [CONFIRM: minimums and lead time]. Delivery area: [CONFIRM: delivery area]. To order, call (858) 274-1140 or email info@cafeathena.com."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long has Café Athena been open in Pacific Beach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Café Athena has been open since 1990. It is a Greek and Mediterranean restaurant and bar at 1846 Garnet Ave in Pacific Beach, San Diego, CA 92109. Café Athena is family-owned and operated. It began in 1990 as a 20-seat taverna run by founder Tony Farah. In 2005 the family opened Apollonia in La Jolla, which closed in 2020 after 15 years because of new development plans. In 2019 Tony, working with his son Joe, transformed Café Athena by adding a full bar and expanding the Mediterranean concept. Joe now carries the family's hospitality tradition forward."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What are Café Athena's hours and address in Pacific Beach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Café Athena is at 1846 Garnet Ave, San Diego, CA 92109, in Pacific Beach. It is open Sunday through Thursday from 11:00 AM to 9:00 PM. It is open Friday and Saturday from 11:00 AM to 9:30 PM. Happy hour runs daily from 3 PM to 6 PM. Parking: [CONFIRM: parking information]."
+          }
+        }
+      ]
+    }
+  ]
+}

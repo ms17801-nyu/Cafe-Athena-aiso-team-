@@ -1,0 +1,700 @@
+{
+  "run_id": "20261023-2232-0807",
+  "audits": [
+    {
+      "restaurant": "Café Athena",
+      "is_target": true,
+      "answers": 15,
+      "mention_rate": 0.25,
+      "avg_position": 5.07,
+      "share_of_voice": 0.028,
+      "sov_rank": 1,
+      "onsite": {
+        "website": "https://www.cafeathena.com",
+        "reachable": true,
+        "pages_found": [
+          "/",
+          "/about"
+        ],
+        "homepage_fetch": "200 as bot",
+        "note": "",
+        "title": "Authentic Greek and Mediterranean Food - Cafe Athena",
+        "meta_description": "Savor authentic Greek and Mediterranean flavors in Pacific Beach, San Diego! Enjoy our welcoming dining room and bar, or grab easy takeout.",
+        "schema_types": [
+          "BreadcrumbList",
+          "EntryPoint",
+          "ImageObject",
+          "ListItem",
+          "Organization",
+          "PropertyValueSpecification",
+          "ReadAction",
+          "SearchAction",
+          "WebPage",
+          "WebSite"
+        ],
+        "has_restaurant_schema": false,
+        "has_faq": false,
+        "has_menu_schema": false,
+        "has_rating_schema": false,
+        "word_count": 1566,
+        "signals": {
+          "gluten_free": true,
+          "vegan": true,
+          "vegetarian": true,
+          "happy_hour": true,
+          "private_events": true,
+          "catering": true,
+          "cocktails": true,
+          "neighborhood": true,
+          "heritage": true
+        }
+      },
+      "offsite": {
+        "google_rating": 4.5,
+        "google_reviews": 498,
+        "yelp_rating": 4.2,
+        "yelp_reviews": 890,
+        "tripadvisor_rating": 4.4,
+        "tripadvisor_reviews": 101,
+        "best_of_lists": [
+          {
+            "outlet": "San Diego Magazine",
+            "title": "Best Greek Restaurant in San Diego (four consecutive years, 2006-2009)",
+            "year": 2009
+          },
+          {
+            "outlet": "San Diego Magazine",
+            "title": "The Best Restaurants in San Diego 2014 - Best Greek (Readers' Pick and Critic's Pick)",
+            "year": 2014
+          },
+          {
+            "outlet": "San Diego Magazine",
+            "title": "San Diego's Best Restaurants 2016 - Best Greek (Critic's Pick; Readers' runner-up)",
+            "year": 2016
+          },
+          {
+            "outlet": "San Diego Magazine",
+            "title": "San Diego's Best Restaurants 2021 - Greek (Runner-up)",
+            "year": 2021
+          }
+        ],
+        "recent_press": [],
+        "reddit_mentions": null,
+        "directories": [
+          "OpenTable",
+          "Toast Local",
+          "DoorDash",
+          "Postmates",
+          "MenuPages"
+        ],
+        "known_for": "Family-owned Greek and Mediterranean restaurant and bar in Pacific Beach, open since 1990 and known for its long run of 'best Greek in San Diego' recognition, dishes like gyros plate, avgolemono soup and Greek salad, a 2019 renovation, and a daily 3-6 PM happy hour."
+      }
+    },
+    {
+      "restaurant": "Costa Brava",
+      "is_target": false,
+      "answers": 13,
+      "mention_rate": 0.217,
+      "avg_position": 6.0,
+      "share_of_voice": 0.024,
+      "sov_rank": 2,
+      "onsite": {
+        "website": "https://www.costabravasd.com",
+        "reachable": true,
+        "pages_found": [
+          "/"
+        ],
+        "homepage_fetch": "200 as bot",
+        "note": "",
+        "title": "Costa Brava - Spanish Restaurant and Tapas Bar - San Diego",
+        "meta_description": "Discover the essence of Spain at Costa Brava. Nestled in Pacific Beach, our restaurant offers an authentic Spanish dining experience.",
+        "schema_types": [
+          "BreadcrumbList",
+          "ImageObject",
+          "ListItem",
+          "Organization",
+          "WebPage",
+          "WebSite"
+        ],
+        "has_restaurant_schema": false,
+        "has_faq": false,
+        "has_menu_schema": false,
+        "has_rating_schema": false,
+        "word_count": 1042,
+        "signals": {
+          "gluten_free": false,
+          "vegan": false,
+          "vegetarian": false,
+          "happy_hour": true,
+          "private_events": true,
+          "catering": false,
+          "cocktails": true,
+          "neighborhood": true,
+          "heritage": true
+        }
+      },
+      "offsite": {
+        "google_rating": 4.6,
+        "google_reviews": 1768,
+        "yelp_rating": 4.4,
+        "yelp_reviews": 2798,
+        "tripadvisor_rating": 4.3,
+        "tripadvisor_reviews": 257,
+        "best_of_lists": [
+          {
+            "outlet": "San Diego A-List (cited by OpenTable and San Diego Lineup)",
+            "title": "#1 Best Tapas in San Diego",
+            "year": null
+          },
+          {
+            "outlet": "Eater San Diego (quoted on a third-party page)",
+            "title": "Best Restaurants in Pacific Beach (map)",
+            "year": null
+          },
+          {
+            "outlet": "Yelp (search ranking, not editorial)",
+            "title": "Top 10 Best Tapas in San Diego, ranked #1 (July 2026)",
+            "year": 2026
+          }
+        ],
+        "recent_press": [],
+        "reddit_mentions": null,
+        "directories": [
+          "OpenTable",
+          "Yelp",
+          "Tripadvisor",
+          "Foursquare",
+          "MapQuest"
+        ],
+        "known_for": "A family-owned Spanish/Basque tapas bar on Garnet Ave in Pacific Beach, known for its extensive hot and cold tapas (patatas bravas, bacon-wrapped dates, oxtail, garlic shrimp), made-to-order paella, sangria, a half-price happy hour, and a dog-friendly patio."
+      }
+    },
+    {
+      "restaurant": "Meze Greek Fusion",
+      "is_target": false,
+      "answers": 10,
+      "mention_rate": 0.167,
+      "avg_position": 2.8,
+      "share_of_voice": 0.018,
+      "sov_rank": 3,
+      "onsite": {
+        "website": "https://gaslampmeze.com",
+        "reachable": false,
+        "pages_found": [],
+        "homepage_fetch": "browser: HTTPError HTTP Error 403: Forbidden",
+        "note": "Homepage could not be fetched by a simple crawler. Treat as 'invisible to non-JavaScript AI crawlers', NOT as proof the site is down.",
+        "title": "",
+        "meta_description": "",
+        "schema_types": [],
+        "has_restaurant_schema": false,
+        "has_faq": false,
+        "has_menu_schema": false,
+        "has_rating_schema": false,
+        "word_count": 0,
+        "signals": {
+          "gluten_free": false,
+          "vegan": false,
+          "vegetarian": false,
+          "happy_hour": false,
+          "private_events": false,
+          "catering": false,
+          "cocktails": false,
+          "neighborhood": false,
+          "heritage": false
+        }
+      },
+      "offsite": {
+        "google_rating": 4.4,
+        "google_reviews": 2514,
+        "yelp_rating": 4.4,
+        "yelp_reviews": 3442,
+        "tripadvisor_rating": 4.4,
+        "tripadvisor_reviews": 767,
+        "best_of_lists": [
+          {
+            "outlet": "San Diego Magazine (Best of San Diego; reported by secondary site deliciousasfck.com, not verified at source)",
+            "title": "Best of 2025",
+            "year": 2025
+          },
+          {
+            "outlet": "Sandi Spots",
+            "title": "Best Greek Food in San Diego (#2 of 3, 85/100)",
+            "year": 2026
+          },
+          {
+            "outlet": "GetGreece",
+            "title": "Top 10 Greek Restaurants to Try in San Diego, CA",
+            "year": 2026
+          },
+          {
+            "outlet": "San Diego Explorer",
+            "title": "25+ Best Downtown San Diego Restaurants in 2026",
+            "year": 2026
+          },
+          {
+            "outlet": "Tripadvisor",
+            "title": "Best Greek Restaurants in San Diego (listed #1)",
+            "year": 2026
+          }
+        ],
+        "recent_press": [
+          {
+            "outlet": "San Diego Explorer",
+            "title": "25+ Best Downtown San Diego Restaurants in 2026 (From a Local)",
+            "year": 2026
+          },
+          {
+            "outlet": "Sandi Spots",
+            "title": "Meze Greek Fusion Review: Scored 85/100",
+            "year": 2026
+          },
+          {
+            "outlet": "Gaslamp Quarter Association (gaslamp.org)",
+            "title": "Mezé Greek Fusion Celebrates Seven Years in the Gaslamp Quarter!",
+            "year": 2019
+          }
+        ],
+        "reddit_mentions": null,
+        "directories": [
+          "OpenTable (4.6, 599 reviews)",
+          "findmeglutenfree",
+          "HappyCow",
+          "Tagvenue",
+          "Uber Eats"
+        ],
+        "known_for": "Greek and Mediterranean food with a Southern California twist in a large multi-level Gaslamp Quarter space, best known for tableside-flambéed saganaki (with staff shouting 'OPA'), cocktails, happy hour and group or private events."
+      }
+    },
+    {
+      "restaurant": "JRDN",
+      "is_target": false,
+      "answers": 10,
+      "mention_rate": 0.167,
+      "avg_position": 5.5,
+      "share_of_voice": 0.018,
+      "sov_rank": 4,
+      "onsite": {
+        "website": "https://www.t23hotel.com",
+        "reachable": true,
+        "pages_found": [
+          "/",
+          "/menu",
+          "/about",
+          "/about-us",
+          "/faq",
+          "/events",
+          "/private-events",
+          "/catering",
+          "/happy-hour"
+        ],
+        "homepage_fetch": "200 as bot",
+        "note": "",
+        "title": "San Diego Boutique Beachfront Hotel | Tower23 Hotel",
+        "meta_description": "TOWER23 Hotel is San Diego",
+        "schema_types": [
+          "Answer",
+          "FAQPage",
+          "Hotel",
+          "LocationFeatureSpecification",
+          "Offer",
+          "PaymentMethod",
+          "PostalAddress",
+          "Question"
+        ],
+        "has_restaurant_schema": false,
+        "has_faq": true,
+        "has_menu_schema": false,
+        "has_rating_schema": false,
+        "word_count": 5181,
+        "signals": {
+          "gluten_free": false,
+          "vegan": false,
+          "vegetarian": false,
+          "happy_hour": false,
+          "private_events": true,
+          "catering": false,
+          "cocktails": false,
+          "neighborhood": true,
+          "heritage": false
+        }
+      },
+      "offsite": {
+        "google_rating": 4.5,
+        "google_reviews": 1531,
+        "yelp_rating": 3.9,
+        "yelp_reviews": 1820,
+        "tripadvisor_rating": 4.3,
+        "tripadvisor_reviews": 576,
+        "best_of_lists": [
+          {
+            "outlet": "TravelAwaits (cited on OpenTable)",
+            "title": "8 Best Pacific Beach Restaurants",
+            "year": 2024
+          },
+          {
+            "outlet": "The There San Diego",
+            "title": "The Best Brunch in San Diego Right Now (2026 Guide)",
+            "year": 2026
+          },
+          {
+            "outlet": "Sandi Spots",
+            "title": "18 Best San Diego Restaurants with a View (2026 Local Guide)",
+            "year": 2026
+          },
+          {
+            "outlet": "Sandi Spots",
+            "title": "Best Restaurants to Watch the Sunset in San Diego (2026)",
+            "year": 2026
+          },
+          {
+            "outlet": "Le Travel Style",
+            "title": "Best Brunch in San Diego: An Ultimate Locals Guide",
+            "year": null
+          }
+        ],
+        "recent_press": [
+          {
+            "outlet": "FOX 5 San Diego",
+            "title": "5 San Diego restaurants with ocean views made for sunset",
+            "year": 2024
+          },
+          {
+            "outlet": "TravelAwaits",
+            "title": "8 Best Pacific Beach Restaurants",
+            "year": 2024
+          },
+          {
+            "outlet": "GAYOT",
+            "title": "JRDN Restaurant review (rated 14/20)",
+            "year": null
+          },
+          {
+            "outlet": "Afar",
+            "title": "JRDN restaurant San Diego (place page)",
+            "year": null
+          }
+        ],
+        "reddit_mentions": "No Reddit or forum threads about JRDN turned up in my searches, so I can't say how it comes up there. The only forum-style mention was a Yelp Talk thread where a user said they had a reservation at JDRN (sic) and another restaurant for Thanksgiving.",
+        "directories": [
+          "OpenTable",
+          "Tripadvisor",
+          "Yelp",
+          "Trip.com",
+          "Restaurant Guru",
+          "Restaurantji",
+          "GAYOT",
+          "Birdeye",
+          "Restaurant.com",
+          "San Diego Lineup",
+          "Afar",
+          "Tower23 Hotel website (t23hotel.com)"
+        ],
+        "known_for": "An oceanfront patio on the Pacific Beach boardwalk at Tower23 Hotel, with sunset views, a 70-foot 'wave wall', sushi and seafood (mussels, short rib, Lobster BLT) and weekend brunch. Reviews are mostly praise for the views and atmosphere, with some complaints about inconsistent service and food and a noisy, bar-like scene."
+      }
+    },
+    {
+      "restaurant": "Spitz",
+      "is_target": false,
+      "answers": 9,
+      "mention_rate": 0.15,
+      "avg_position": 5.89,
+      "share_of_voice": 0.017,
+      "sov_rank": 5,
+      "onsite": {
+        "website": "https://spitz-restaurant.com",
+        "reachable": false,
+        "pages_found": [],
+        "homepage_fetch": "browser: HTTPError HTTP Error 403: Forbidden",
+        "note": "Homepage could not be fetched by a simple crawler. Treat as 'invisible to non-JavaScript AI crawlers', NOT as proof the site is down.",
+        "title": "",
+        "meta_description": "",
+        "schema_types": [],
+        "has_restaurant_schema": false,
+        "has_faq": false,
+        "has_menu_schema": false,
+        "has_rating_schema": false,
+        "word_count": 0,
+        "signals": {
+          "gluten_free": false,
+          "vegan": false,
+          "vegetarian": false,
+          "happy_hour": false,
+          "private_events": false,
+          "catering": false,
+          "cocktails": false,
+          "neighborhood": false,
+          "heritage": false
+        }
+      },
+      "offsite": {
+        "google_rating": null,
+        "google_reviews": null,
+        "yelp_rating": 4.8,
+        "yelp_reviews": 162,
+        "tripadvisor_rating": null,
+        "tripadvisor_reviews": null,
+        "best_of_lists": [
+          {
+            "outlet": "Yelp",
+            "title": "Top 10 Best Happy Hour near Pacific Beach, San Diego, CA 92109 (Spitz - Pacific Beach listed)",
+            "year": 2026
+          }
+        ],
+        "recent_press": [
+          {
+            "outlet": "Hoodline",
+            "title": "Pacific Beach Scores Late-Night Doner Fix As Spitz Lands On Garnet",
+            "year": 2026
+          },
+          {
+            "outlet": "SanDiegoVille",
+            "title": "Spitz Mediterranean Street Food Returns To San Diego With Pacific Beach Opening",
+            "year": 2025
+          },
+          {
+            "outlet": "SanDiegoVille",
+            "title": "Spitz Mediterranean Street Food Returning To San Diego With New Pacific Beach Location",
+            "year": 2025
+          }
+        ],
+        "reddit_mentions": null,
+        "directories": [
+          "Yelp",
+          "MapQuest",
+          "Franki",
+          "Poyst",
+          "MenuPix",
+          "Facebook",
+          "Birdeye"
+        ],
+        "known_for": "The LA-born chain's Pacific Beach location (967 Garnet Ave) is known for döner kebabs, falafel, Berliner/Street Cart fries and craft beer. It also offers vegan and gluten-free options and a busy happy-hour lineup. Reviewers rave about the huge wraps, rich salads, gyros and falafel."
+      }
+    },
+    {
+      "restaurant": "Pueblo",
+      "is_target": false,
+      "answers": 9,
+      "mention_rate": 0.15,
+      "avg_position": 6.0,
+      "share_of_voice": 0.017,
+      "sov_rank": 6,
+      "onsite": {
+        "website": "https://www.pueblopb.com",
+        "reachable": false,
+        "pages_found": [],
+        "homepage_fetch": "browser: HTTPError HTTP Error 403: Forbidden",
+        "note": "Homepage could not be fetched by a simple crawler. Treat as 'invisible to non-JavaScript AI crawlers', NOT as proof the site is down.",
+        "title": "",
+        "meta_description": "",
+        "schema_types": [],
+        "has_restaurant_schema": false,
+        "has_faq": false,
+        "has_menu_schema": false,
+        "has_rating_schema": false,
+        "word_count": 0,
+        "signals": {
+          "gluten_free": false,
+          "vegan": false,
+          "vegetarian": false,
+          "happy_hour": false,
+          "private_events": false,
+          "catering": false,
+          "cocktails": false,
+          "neighborhood": false,
+          "heritage": false
+        }
+      },
+      "offsite": {
+        "google_rating": 4.3,
+        "google_reviews": 1156,
+        "yelp_rating": 3.9,
+        "yelp_reviews": 1563,
+        "tripadvisor_rating": 4.3,
+        "tripadvisor_reviews": 87,
+        "best_of_lists": [
+          {
+            "outlet": "San Diego Magazine",
+            "title": "20 of San Diego's Best Rooftop Bars & Restaurants with a View",
+            "year": 2025
+          },
+          {
+            "outlet": "Wanderlog",
+            "title": "The 44 best upscale Mexican restaurants in San Diego (Pueblo ranked #47)",
+            "year": null
+          },
+          {
+            "outlet": "Yelp",
+            "title": "Top 10 Best Rooftop Bar near Pacific Beach (Pueblo ranked #1, Sept/Oct 2026 listing)",
+            "year": 2026
+          }
+        ],
+        "recent_press": [
+          {
+            "outlet": "Eater San Diego",
+            "title": "Where to Enjoy a Glass of Chardonnay This Summer in San Diego (also appears in Eater's Chardonnay Day map)",
+            "year": null
+          }
+        ],
+        "reddit_mentions": null,
+        "directories": [
+          "OpenTable",
+          "Yelp",
+          "Tripadvisor",
+          "Foursquare",
+          "MapQuest",
+          "Mindtrip",
+          "Wanderlog",
+          "The Menu Page",
+          "GoSanDiego",
+          "Postcard",
+          "San Diego Lineup"
+        ],
+        "known_for": "A Baja-inspired coastal Mexican and seafood restaurant in Pacific Beach with a courtyard and rooftop bar with ocean views. Reviewers praise the decor and ceviche, molcajete, seafood enchiladas and tacos. Some find the food bland and the service slow when busy."
+      }
+    }
+  ],
+  "diagnosis": {
+    "headline": "Café Athena is already the top-ranked name in a fragmented field (#1 share of voice, but only 2.8% across 262 restaurants), and it wins only generic 'Greek' and dish queries. It is invisible on the 25 queries about dietary needs, happy hour, groups/catering and cocktails/occasions. Its services exist on the homepage, but it has no dedicated crawlable pages, no Restaurant/Menu/FAQ schema, and a third-party footprint (reviews, niche directories, recent lists) 3–8x thinner than competitors.",
+    "gaps": [
+      {
+        "rank": 1,
+        "gap": "Dietary options are claimed but not structured or findable (0% mention rate)",
+        "evidence": "Dietary category: 0 of 8 answers mention Café Athena, with 68 restaurants seen. Four lost queries: q03, q09, q10, q22. The site flags gluten_free, vegan and vegetarian as true, but pages_found is only '/' and '/about'. There is no menu page and has_menu_schema is false. findmeglutenfree.com is the #5 cited source (11 citations), and Café Athena's directory list (OpenTable, Toast Local, DoorDash, Postmates, MenuPages) does not include it.",
+        "competitor_example": "Meze Greek Fusion wins q03 and is listed on findmeglutenfree and HappyCow, so it appears in the sources AI cites for dietary questions. Callie and Herb & Wood also win q03. Spitz's profile highlights vegan and gluten-free options.",
+        "queries_affected": [
+          "q03",
+          "q09",
+          "q10",
+          "q22",
+          "dietary"
+        ],
+        "impact": "high",
+        "effort": "low",
+        "fix": "Publish a crawlable /menu page and a /vegan-vegetarian-gluten-free page that name actual dishes and mark each GF, V or VG. Add Menu/MenuItem schema with suitableForDiet. Add an FAQ ('Does Café Athena have gluten-free Mediterranean options?'). Claim and complete the findmeglutenfree and HappyCow listings."
+      },
+      {
+        "rank": 2,
+        "gap": "Happy hour exists but is not packaged as a specific, citable offer",
+        "evidence": "Happy_hour: 1 of 5 answers mention Café Athena, sov_rank 27. Lost queries q04, q11, q12 and q26 are all 100% misses. The site signal 'happy_hour' is true, but there is no /happy-hour page (JRDN has one). The title and meta description mention neither happy hour nor small plates. Café Athena's known_for lists the 3–6 PM happy hour only as a brief mention.",
+        "competitor_example": "Costa Brava is #2 in share of voice and wins q04. It is the '#1 Best Tapas in San Diego' (A-List, cited by OpenTable), and its profile highlights a half-price happy hour and an extensive tapas menu. Bar Ella wins q11 and q12, and barellapb.com is a cited source. Spitz is on Yelp's 'Top 10 Best Happy Hour near Pacific Beach' list.",
+        "queries_affected": [
+          "q04",
+          "q11",
+          "q12",
+          "q26",
+          "happy_hour"
+        ],
+        "impact": "high",
+        "effort": "low",
+        "fix": "Build /happy-hour with days and times (daily 3–6 PM), named small plates with prices, drink specials, and the Garnet Ave / Pacific Beach location. Say 'tapas-style small plates' explicitly and add a cheap-eats angle for q12. Put 'Happy Hour 3–6 PM' in the title and meta description. Add the same details to the Google Business Profile, Yelp and OpenTable, and get on Yelp's happy-hour lists."
+      },
+      {
+        "rank": 3,
+        "gap": "Only 2 crawlable pages and no Restaurant, Menu, FAQ or rating schema",
+        "evidence": "pages_found: ['/', '/about']. Schema types are only Organization, WebSite, WebPage, BreadcrumbList and similar. has_restaurant_schema, has_faq, has_menu_schema and has_rating_schema are all false. The title ('Authentic Greek and Mediterranean Food - Cafe Athena') has no location. The meta description does not mention happy hour, vegan/GF, events, cocktails or 1990. Café Athena's 4.5 Google rating (498 reviews) and 4.2 Yelp rating are not marked up.",
+        "competitor_example": "JRDN's site has 9 pages (/menu, /faq, /events, /private-events, /catering, /happy-hour and others), FAQPage schema and 5,181 words versus Café Athena's 1,566. It wins q18 and q24. Caveat: Costa Brava also has no Restaurant schema and Meze, Spitz and Pueblo blocked the crawler (403), yet all still win. Site structure is therefore a necessary hygiene fix, not the main driver of those wins.",
+        "queries_affected": [
+          "all categories",
+          "q18",
+          "q24",
+          "q02"
+        ],
+        "impact": "medium",
+        "effort": "low",
+        "fix": "Add Restaurant (servesCuisine: Greek, Mediterranean; hasMenu; openingHours; foundingDate 1990; aggregateRating; acceptsReservations) with FAQPage and Menu schema. Create the dedicated pages in gaps 1, 2 and 4. Rewrite the title as 'Café Athena | Greek & Mediterranean Restaurant, Bar & Happy Hour in Pacific Beach, San Diego'."
+      },
+      {
+        "rank": 4,
+        "gap": "No group-dining, private-event or catering presence (0 of 10 answers)",
+        "evidence": "Group_events: 0 of 8 answers. Catering: 0 of 2 answers. Lost queries q05, q13, q14, q15 and q16. The site signals private_events and catering are true, but there is no /private-events, /catering or /events page (JRDN has all three). Café Athena is not on Tagvenue (4 citations) or Peerspace (6 citations), and its directories list has no event marketplace.",
+        "competitor_example": "Meze is on Tagvenue. Sifnos Greek Catering, Georgia's Greek Cuisine and Olympic Cafe win Greek catering (q15). pitahousesd.com (11 citations) and shawarmahousesd.com (4) are competitors' own domains cited for catering. flamingodeck.com (5 citations) is cited for large-group queries. Café Athena has no equivalent page for AI to cite.",
+        "queries_affected": [
+          "q05",
+          "q13",
+          "q14",
+          "q15",
+          "q16",
+          "group_events",
+          "catering"
+        ],
+        "impact": "high",
+        "effort": "medium",
+        "fix": "Create /private-events (capacity, rehearsal-dinner and birthday packages, set menus, inquiry form) and /catering (office-lunch Mediterranean trays, Greek catering, minimums, delivery area). Use the exact phrases from q05, q14, q15 and q16. Add FAQ schema. List the venue on Tagvenue and Peerspace, and submit it to Sandi Spots and sandiegorestaurants.com."
+      },
+      {
+        "rank": 5,
+        "gap": "Absent from the niche directories and local lists that AI assistants cite",
+        "evidence": "Cited sources: yelp.com 95, tripadvisor.com 29, opentable.com 21, findmeglutenfree.com 11, atly.com 9, sandispots.com 6, sandiegorestaurants.com 6, peerspace.com 6, tagvenue.com 4, getgreece.com 3. Café Athena's directories list shows only OpenTable, Toast Local, DoorDash, Postmates and MenuPages. Yelp alone is about 44% of the top-15 citations (95 of 217). recent_press is empty and reddit_mentions is null.",
+        "competitor_example": "Meze appears on Sandi Spots (#2 of 3 Best Greek, 85/100), GetGreece (Top 10 Greek Restaurants), Tripadvisor (#1 Greek), findmeglutenfree, HappyCow and Tagvenue, covering most of the sources AI cites. Pueblo lists 11 directories and JRDN lists 12.",
+        "queries_affected": [
+          "q02",
+          "q03",
+          "q22",
+          "q05",
+          "q14",
+          "q31",
+          "cuisine",
+          "dietary",
+          "group_events"
+        ],
+        "impact": "high",
+        "effort": "medium",
+        "fix": "Claim and complete Yelp, Tripadvisor, Google Business Profile and OpenTable with the same copy (happy hour, vegan/GF, events, cocktails, since 1990). Add findmeglutenfree, HappyCow, Tagvenue, Peerspace, Restaurant Guru and Foursquare. Pitch Sandi Spots, GetGreece, sandiegorestaurants.com and atly.com for Greek and Pacific Beach roundups."
+      },
+      {
+        "rank": 6,
+        "gap": "Mythology cocktails, date-night and 'long-running local' positioning are invisible",
+        "evidence": "Occasion: 1 of 7 answers (14%, sov_rank 52). Lost queries: q06, q19, q24, q25, q27. q30 (long-running PB restaurants, broad category) is also lost. Café Athena's known_for does not mention the cocktails at all. The site's 'cocktails' signal is only a generic true. There is no cocktail menu page or schema and no press on the mythology theme. 'Heritage' is true on the site, but the 1990 date is not in structured data.",
+        "competitor_example": "q27 (unique cocktails) goes to Realm of the 52 Remedies, Common Theory and False Idol, which are known for their cocktails. q06 goes to Bar Ella and The Grass Skirt. q30 goes to Mr. Frostie, World Famous and Nite Owl, which are known as long-running places. JRDN wins q24 and q18 on views and atmosphere, with FOX 5, TravelAwaits and Sandi Spots coverage.",
+        "queries_affected": [
+          "q06",
+          "q19",
+          "q24",
+          "q25",
+          "q27",
+          "q30",
+          "occasion",
+          "broad"
+        ],
+        "impact": "medium",
+        "effort": "medium",
+        "fix": "Publish /cocktails with each Greek-mythology drink named and described (ingredients, the myth behind it). Add a 'Since 1990, family-owned in Pacific Beach' story to the About page and schema. Add pages or sections for date night, anniversary and family dining that use the query wording. Pitch the cocktail program to local drink and bar roundups."
+      },
+      {
+        "rank": 7,
+        "gap": "Review volume is 3–8x smaller than the competitors who win",
+        "evidence": "Café Athena: Google 498, Yelp 890, Tripadvisor 101. Meze: Google 2,514 (5x), Yelp 3,442 (3.9x), Tripadvisor 767 (7.6x). Costa Brava: Google 1,768 (3.6x), Yelp 2,798 (3.1x), Tripadvisor 257. JRDN: Google 1,531, Yelp 1,820, Tripadvisor 576. Pueblo: Google 1,156, Yelp 1,563. Ratings are comparable (Google 4.5 vs 4.3–4.6; Yelp 4.2 vs 3.9–4.4), so the gap is volume, not quality. Yelp is the #1 cited source. Mention rate when listed is 25%, but top3_rate is only 8.3% and avg_position is 5.07.",
+        "competitor_example": "Meze's 4.4 across all three platforms on 6,700+ combined reviews, and its #1 Tripadvisor Greek ranking, make it the default Greek answer. It wins position 2.8 on average versus Café Athena's 5.07. Even JRDN, with a 3.9 Yelp rating, ranks on review volume.",
+        "queries_affected": [
+          "q02",
+          "q31",
+          "q09",
+          "q11",
+          "q18",
+          "top3_rate",
+          "avg_position"
+        ],
+        "impact": "high",
+        "effort": "high",
+        "fix": "Run a steady review program: QR codes on tables and checks, a post-visit text or email link, and a staff script. Prioritize Yelp and Tripadvisor (101 reviews is the weakest spot), then Google. Ask for reviews that name dishes, happy hour and dietary options, since AI assistants quote review language. Respond to every review."
+      },
+      {
+        "rank": 8,
+        "gap": "Greek-authority credentials are old, and rivals have fresh 2025–2026 coverage",
+        "evidence": "Café Athena's best-of lists run 2006–2009, 2014, 2016 and a 2021 runner-up, with no listing newer than 2021 and recent_press empty. q02 ('best Greek restaurant in San Diego') is a 100% miss, as is q31 (best Mediterranean near La Jolla). q20 (best lamb dish) and q29 (hummus and pita near Mission Bay) are also lost, even though dish mentions are 71%. Dish top3_rate is 0%.",
+        "competitor_example": "Meze has San Diego Magazine Best of 2025 (unverified at source), Sandi Spots 2026, GetGreece 2026, San Diego Explorer 2026 and a Tripadvisor #1 Greek ranking. It is also named on q02 along with Olympic Cafe and Athens Market Taverna. Spitz has 2025–2026 press (Hoodline, SanDiegoVille).",
+        "queries_affected": [
+          "q02",
+          "q31",
+          "q20",
+          "q29",
+          "cuisine",
+          "dish"
+        ],
+        "impact": "medium",
+        "effort": "medium",
+        "fix": "Pitch a fresh angle ('35 years, family-owned, 2019 renovation, mythology cocktails') to San Diego Magazine, Eater San Diego, Hoodline and SanDiegoVille. Get on Sandi Spots and GetGreece. Add dish pages or sections for lamb, hummus and pita, gyros plate and avgolemono so AI can answer dish queries. Add 'serving Mission Beach, Mission Bay and La Jolla visitors' content."
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "before": 37.5,
+  "after": 68.8,
+  "method": "Retrieval simulation (aiso-agent/aiso/simulate.py): 16 sample queries; BM25 retrieves the top 3 of 21 real web pages (roundups, directories, restaurant sites) and the assistant recommends restaurants in the order those pages list them. Before = today's web; after = today's web + Café Athena's new pages. Deterministic and re-runnable. A projection, not a live re-test.",
+  "changes": [
+    {"query": "where to host a rehearsal dinner in Pacific Beach", "before": "", "after": "#3"},
+    {"query": "restaurant for a group dinner of 15 people in Pacific Beach", "before": "", "after": "#2"},
+    {"query": "Greek catering in San Diego", "before": "", "after": "#3"},
+    {"query": "happy hour small plates tapas in Pacific Beach", "before": "", "after": "#2"},
+    {"query": "date night spot in PB with good cocktails", "before": "", "after": "#3"},
+    {"query": "vegan friendly Greek restaurant in San Diego", "before": "#3", "after": "#2"}
+  ]
+}

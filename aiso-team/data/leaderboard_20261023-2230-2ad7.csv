@@ -1,0 +1,21 @@
+restaurant,is_target,answers,mention_rate,avg_position,share_of_voice,sov_rank
+Meze Greek Fusion,False,2,0.667,1.5,0.087,1
+ZGARA Greek Grill,False,2,0.667,4.5,0.087,2
+Georgia's Greek Cuisine,False,2,0.667,6.0,0.087,3
+Olympic Cafe,False,1,0.333,2.0,0.043,4
+Athens Market Taverna,False,1,0.333,3.0,0.043,5
+Alexi's Greek Cafe,False,1,0.333,6.0,0.043,6
+Café Athena,True,1,0.333,1.0,0.043,7
+Arslan's Gyros,False,1,0.333,2.0,0.043,8
+Mr Shawarma,False,1,0.333,3.0,0.043,9
+Nick The Greek,False,1,0.333,4.0,0.043,10
+Spitz,False,1,0.333,6.0,0.043,11
+Dino's Gyros Greek Cafe and Taverna,False,1,0.333,8.0,0.043,12
+Callie,False,1,0.333,1.0,0.043,13
+Herb & Wood,False,1,0.333,3.0,0.043,14
+Bandar Restaurant,False,1,0.333,4.0,0.043,15
+Spitz Mediterranean Street Food,False,1,0.333,5.0,0.043,16
+The Kebab Shop,False,1,0.333,6.0,0.043,17
+Shawarma House,False,1,0.333,7.0,0.043,18
+Panini Kabob Grill,False,1,0.333,8.0,0.043,19
+Pita House,False,1,0.333,9.0,0.043,20

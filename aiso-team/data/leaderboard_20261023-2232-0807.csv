@@ -1,0 +1,263 @@
+restaurant,is_target,answers,mention_rate,avg_position,share_of_voice,sov_rank
+Café Athena,True,15,0.25,5.07,0.028,1
+Costa Brava,False,13,0.217,6.0,0.024,2
+Meze Greek Fusion,False,10,0.167,2.8,0.018,3
+JRDN,False,10,0.167,5.5,0.018,4
+Spitz,False,9,0.15,5.89,0.017,5
+Pueblo,False,9,0.15,6.0,0.017,6
+Pacific Beach AleHouse,False,9,0.15,6.89,0.017,7
+World Famous,False,9,0.15,7.56,0.017,8
+Georgia's Greek Cuisine,False,8,0.133,3.38,0.015,9
+Waterbar,False,8,0.133,6.75,0.015,10
+Akhis Authentic Shawarma & Kebab,False,8,0.133,4.5,0.015,11
+Olympic Cafe,False,7,0.117,2.43,0.013,12
+Athens Market Taverna,False,7,0.117,4.43,0.013,13
+Alexi's Greek Cafe,False,7,0.117,4.29,0.013,14
+Flamingo Deck,False,7,0.117,3.57,0.013,15
+Hideaway,False,7,0.117,8.0,0.013,16
+Enoteca Adriano,False,7,0.117,4.29,0.013,17
+Callie,False,6,0.1,3.33,0.011,18
+Bar Ella,False,6,0.1,2.33,0.011,19
+Troy's Greek Restaurant,False,6,0.1,7.33,0.011,20
+Bare Back Grill,False,6,0.1,6.17,0.011,21
+The Fishery,False,6,0.1,5.83,0.011,22
+Zgara Greek Grill,False,5,0.083,5.0,0.009,23
+Pacific Beach Fish Shop,False,5,0.083,5.0,0.009,24
+Slowly Restaurant & Lounge,False,5,0.083,3.4,0.009,25
+Nick the Greek,False,5,0.083,4.2,0.009,26
+Fig Tree Cafe,False,5,0.083,3.2,0.009,27
+Ambrogio15,False,5,0.083,5.6,0.009,28
+Kono's Cafe,False,5,0.083,3.2,0.009,29
+Shawarma Shack,False,5,0.083,3.0,0.009,30
+Captain's Quarters,False,4,0.067,3.5,0.007,31
+The Great Greek Mediterranean Grill,False,4,0.067,5.5,0.007,32
+Powerhaus Wholesome Pizza & Eats,False,4,0.067,5.5,0.007,33
+Nico's Fish Market,False,4,0.067,5.0,0.007,34
+Aladdin Cafe,False,4,0.067,5.5,0.007,35
+Mister A's,False,4,0.067,8.0,0.007,36
+Broken Yolk Cafe,False,4,0.067,4.5,0.007,37
+Oscar's Mexican Seafood,False,4,0.067,5.25,0.007,38
+Herb & Wood,False,3,0.05,4.33,0.006,39
+Pita House,False,3,0.05,6.67,0.006,40
+Arslan's Gyros,False,3,0.05,1.33,0.006,41
+Mr Shawarma,False,3,0.05,3.33,0.006,42
+The Grass Skirt,False,3,0.05,3.33,0.006,43
+Slowly,False,3,0.05,7.0,0.006,44
+The Beverly,False,3,0.05,5.67,0.006,45
+The Collective,False,3,0.05,4.33,0.006,46
+Mr Charlie's,False,3,0.05,6.33,0.006,47
+Armonía Kitchen,False,3,0.05,2.33,0.006,48
+Kindred,False,3,0.05,6.0,0.006,49
+Sushi Ota,False,3,0.05,7.0,0.006,50
+Yanni's Bar & Grill,False,3,0.05,7.33,0.006,51
+Micheline's Pita House,False,3,0.05,2.33,0.006,52
+Oceana Coastal Kitchen,False,3,0.05,5.0,0.006,53
+Taco Surf,False,3,0.05,5.33,0.006,54
+Woody's Breakfast and Burgers,False,3,0.05,6.67,0.006,55
+Leila,False,3,0.05,4.67,0.006,56
+Scuderie Italia,False,3,0.05,7.33,0.006,57
+Spitz Mediterranean Street Food,False,2,0.033,5.0,0.004,58
+The Kebab Shop,False,2,0.033,5.5,0.004,59
+Shawarma House,False,2,0.033,6.5,0.004,60
+Petrino's Greek Restaurant,False,2,0.033,9.0,0.004,61
+Yard and Sea,False,2,0.033,6.5,0.004,62
+Kojack's,False,2,0.033,3.0,0.004,63
+Ya Halla Mediterranean Grill,False,2,0.033,6.0,0.004,64
+The Local,False,2,0.033,5.5,0.004,65
+Second Nature,False,2,0.033,5.0,0.004,66
+Spice Lounge,False,2,0.033,8.0,0.004,67
+Breakfast Republic,False,2,0.033,6.5,0.004,68
+Greek Corner Cafe,False,2,0.033,6.0,0.004,69
+Shawarma House SD,False,2,0.033,2.0,0.004,70
+Baked Bear,False,2,0.033,9.5,0.004,71
+PB Pho & Grill,False,2,0.033,6.5,0.004,72
+Oltre Mare,False,2,0.033,7.5,0.004,73
+Mr. Frostie,False,2,0.033,6.0,0.004,74
+Trident Coffee,False,2,0.033,2.5,0.004,75
+Square Pizza Co,False,2,0.033,5.0,0.004,76
+The Crack Shack,False,2,0.033,6.0,0.004,77
+C Level,False,2,0.033,8.0,0.004,78
+BoujieMana,False,2,0.033,3.0,0.004,79
+Pita Bowl,False,2,0.033,7.0,0.004,80
+Mothership,False,2,0.033,6.5,0.004,81
+Rocky's Crown Pub,False,2,0.033,7.5,0.004,82
+Greek Palace,False,2,0.033,4.0,0.004,83
+Marketplace Grille,False,2,0.033,2.5,0.004,84
+Harbor Greek Cafe,False,2,0.033,5.5,0.004,85
+Bosforo,False,2,0.033,4.5,0.004,86
+Mimoza,False,2,0.033,8.5,0.004,87
+Bandar Restaurant,False,1,0.017,4.0,0.002,88
+PITA 22,False,1,0.017,6.0,0.002,89
+Tavern at the Beach,False,1,0.017,5.0,0.002,90
+Mavericks Beach Club,False,1,0.017,6.0,0.002,91
+Cabo Cantina,False,1,0.017,7.0,0.002,92
+Union Kitchen & Tap,False,1,0.017,8.0,0.002,93
+Good Time Poke,False,1,0.017,3.0,0.002,94
+Laylow Speakeasy,False,1,0.017,5.0,0.002,95
+Nite Owl Cocktail Lounge,False,1,0.017,7.0,0.002,96
+Moe's Steakhouse,False,1,0.017,6.0,0.002,97
+Chic Boho Event Space in Pacific Beach,False,1,0.017,7.0,0.002,98
+Outdoor Oasis,False,1,0.017,8.0,0.002,99
+TapRoom,False,1,0.017,9.0,0.002,100
+Puesto La Jolla,False,1,0.017,12.0,0.002,101
+George's at the Cove,False,1,0.017,13.0,0.002,102
+Duke's La Jolla,False,1,0.017,14.0,0.002,103
+Slowly Bar and Restaurant,False,1,0.017,5.0,0.002,104
+Aladdin,False,1,0.017,8.0,0.002,105
+710 Beach Club,False,1,0.017,6.0,0.002,106
+Dirty Birds,False,1,0.017,7.0,0.002,107
+The Open Bar,False,1,0.017,9.0,0.002,108
+Plant Power,False,1,0.017,8.0,0.002,109
+Roots,False,1,0.017,9.0,0.002,110
+Sipz,False,1,0.017,10.0,0.002,111
+Trilogy Sanctuary,False,1,0.017,11.0,0.002,112
+Donna Jean,False,1,0.017,14.0,0.002,113
+The Yasai,False,1,0.017,15.0,0.002,114
+Rakiraki Ramen,False,1,0.017,16.0,0.002,115
+Scuderi Italia,False,1,0.017,4.0,0.002,116
+Sifnos Greek Catering,False,1,0.017,1.0,0.002,117
+Greek Palace Catering,False,1,0.017,4.0,0.002,118
+Zorbas Greek Catering,False,1,0.017,5.0,0.002,119
+Mr. Greek,False,1,0.017,7.0,0.002,120
+Taconora,False,1,0.017,3.0,0.002,121
+Dave's Hot Chicken,False,1,0.017,4.0,0.002,122
+Mission Bagel,False,1,0.017,5.0,0.002,123
+The Mad Beet,False,1,0.017,6.0,0.002,124
+Himalayan Spice & Savor,False,1,0.017,10.0,0.002,125
+Sauced Pizzeria,False,1,0.017,4.0,0.002,126
+Sandbox Pizza,False,1,0.017,7.0,0.002,127
+Georgia's Greek Quisine,False,1,0.017,5.0,0.002,128
+Beer Garden/TapRoom,False,1,0.017,2.0,0.002,129
+Maverick's,False,1,0.017,3.0,0.002,130
+Rose Creek Cottage,False,1,0.017,4.0,0.002,131
+Medina Art Studios,False,1,0.017,5.0,0.002,132
+Chic Boho Event Space,False,1,0.017,6.0,0.002,133
+The Block,False,1,0.017,7.0,0.002,134
+PorchLight Coffee,False,1,0.017,8.0,0.002,135
+Orchid Persian Cuisine,False,1,0.017,1.0,0.002,136
+Pomegranate Russian-Georgian,False,1,0.017,2.0,0.002,137
+Baba Kabob,False,1,0.017,4.0,0.002,138
+Addis Ethiopian,False,1,0.017,6.0,0.002,139
+Khan's Cave,False,1,0.017,7.0,0.002,140
+The Smoking Goat,False,1,0.017,8.0,0.002,141
+Island Prime,False,1,0.017,9.0,0.002,142
+Parc Bistro-Brasserie,False,1,0.017,11.0,0.002,143
+Bistro du Marché,False,1,0.017,12.0,0.002,144
+A.R. Valentien,False,1,0.017,13.0,0.002,145
+Hongyuan Kebab,False,1,0.017,14.0,0.002,146
+Xinjiang BBQ,False,1,0.017,15.0,0.002,147
+Verbena Kitchen,False,1,0.017,16.0,0.002,148
+SD TapRoom,False,1,0.017,5.0,0.002,149
+Seaside Pizza Co.,False,1,0.017,7.0,0.002,150
+The Pad Thai Stand,False,1,0.017,11.0,0.002,151
+Fish & Things Poke Bar,False,1,0.017,7.0,0.002,152
+Mary's Salads,False,1,0.017,8.0,0.002,153
+FIREHOUSE,False,1,0.017,2.0,0.002,154
+Pastiamo,False,1,0.017,6.0,0.002,155
+The Remy,False,1,0.017,12.0,0.002,156
+Herb & Sea,False,1,0.017,3.0,0.002,157
+Leu Leu,False,1,0.017,4.0,0.002,158
+The Beverly Beach Garden,False,1,0.017,6.0,0.002,159
+Realm of the 52 Remedies,False,1,0.017,1.0,0.002,160
+Common Theory,False,1,0.017,2.0,0.002,161
+False Idol,False,1,0.017,3.0,0.002,162
+Oculto 477,False,1,0.017,5.0,0.002,163
+Tahona,False,1,0.017,6.0,0.002,164
+Young Blood,False,1,0.017,7.0,0.002,165
+Bar Kamon,False,1,0.017,8.0,0.002,166
+Convoy Music Bar,False,1,0.017,9.0,0.002,167
+Botanica,False,1,0.017,10.0,0.002,168
+Polite Provisions,False,1,0.017,12.0,0.002,169
+Raised by Wolves,False,1,0.017,13.0,0.002,170
+Lou Lou's,False,1,0.017,15.0,0.002,171
+Lafayette,False,1,0.017,16.0,0.002,172
+Halal City,False,1,0.017,1.0,0.002,173
+Keto Grill,False,1,0.017,2.0,0.002,174
+Oren's Hummus,False,1,0.017,3.0,0.002,175
+Old Jerusalem Restaurant,False,1,0.017,4.0,0.002,176
+Reem's,False,1,0.017,5.0,0.002,177
+Mezze and Mooore,False,1,0.017,6.0,0.002,178
+Dockside 1953,False,1,0.017,7.0,0.002,179
+Nite Owl,False,1,0.017,3.0,0.002,180
+The French Gourmet,False,1,0.017,5.0,0.002,181
+Kono's Surf Club Cafe,False,1,0.017,6.0,0.002,182
+Giulio's,False,1,0.017,9.0,0.002,183
+Jack & Giulio's,False,1,0.017,10.0,0.002,184
+Dino's Gyros Greek Cafe & Taverna,False,1,0.017,1.0,0.002,185
+Luna Grill Clairemont,False,1,0.017,4.0,0.002,186
+Zoya,False,1,0.017,1.0,0.002,187
+Spiro's Mediterranean Cuisine,False,1,0.017,5.0,0.002,188
+Beeside Balcony,False,1,0.017,6.0,0.002,189
+Mediterranean Room,False,1,0.017,7.0,0.002,190
+We Olive & Wine Bar,False,1,0.017,8.0,0.002,191
+Gyros on Wheels,False,1,0.017,9.0,0.002,192
+SF Kebab,False,1,0.017,10.0,0.002,193
+Souvla,False,1,0.017,11.0,0.002,194
+The Parthenon,False,1,0.017,12.0,0.002,195
+Kokkari Estiatorio,False,1,0.017,13.0,0.002,196
+Milos Meze,False,1,0.017,14.0,0.002,197
+Nick's at the Beach,False,1,0.017,4.0,0.002,198
+Maisa Lebanese Cuisine,False,1,0.017,2.0,0.002,199
+Truva,False,1,0.017,7.0,0.002,200
+Kebab Craft,False,1,0.017,11.0,0.002,201
+Abraj,False,1,0.017,12.0,0.002,202
+La Playa Taco Shop,False,1,0.017,6.0,0.002,203
+Leilani's Cafe,False,1,0.017,7.0,0.002,204
+Born & Raised,False,1,0.017,2.0,0.002,205
+Fort Oak,False,1,0.017,3.0,0.002,206
+Juniper & Ivy,False,1,0.017,4.0,0.002,207
+Kettner Exchange,False,1,0.017,6.0,0.002,208
+Catania,False,1,0.017,7.0,0.002,209
+Cesarina,False,1,0.017,8.0,0.002,210
+Gravity Heights,False,1,0.017,9.0,0.002,211
+Stone Brewing,False,1,0.017,10.0,0.002,212
+Rose Creek Cottage 1900,False,1,0.017,2.0,0.002,213
+The Point,False,1,0.017,4.0,0.002,214
+Julep Venue,False,1,0.017,5.0,0.002,215
+Ocean Park Inn,False,1,0.017,6.0,0.002,216
+Civico 1845,False,1,0.017,3.0,0.002,217
+Great Maple,False,1,0.017,4.0,0.002,218
+Melting Pot,False,1,0.017,5.0,0.002,219
+Huntress,False,1,0.017,6.0,0.002,220
+Mr. A's,False,1,0.017,7.0,0.002,221
+Malibu Farm,False,1,0.017,9.0,0.002,222
+So Saap,False,1,0.017,10.0,0.002,223
+Tacotarian,False,1,0.017,11.0,0.002,224
+Panini Kabob Grill,False,1,0.017,1.0,0.002,225
+Cafe21,False,1,0.017,2.0,0.002,226
+Troy's,False,1,0.017,4.0,0.002,227
+Zgara,False,1,0.017,5.0,0.002,228
+Bubba's Smokehouse BBQ,False,1,0.017,7.0,0.002,229
+Baja Beach Cafe,False,1,0.017,8.0,0.002,230
+PB Shore Club,False,1,0.017,17.0,0.002,231
+Tidal,False,1,0.017,1.0,0.002,232
+Red Marlin Restaurant & Terrace,False,1,0.017,2.0,0.002,233
+Charli's Landing,False,1,0.017,3.0,0.002,234
+Cannonball,False,1,0.017,5.0,0.002,235
+Baci Ristorante Italiano,False,1,0.017,6.0,0.002,236
+Covewood,False,1,0.017,7.0,0.002,237
+Bianchi Pizza & Pasta,False,1,0.017,8.0,0.002,238
+Miss B's Coconut Club,False,1,0.017,9.0,0.002,239
+Barefoot Bar & Grill,False,1,0.017,10.0,0.002,240
+Backyard Kitchen and Tap,False,1,0.017,6.0,0.002,241
+Mimoza Mediterranean,False,1,0.017,2.0,0.002,242
+Tahini,False,1,0.017,7.0,0.002,243
+Pata Negra Market,False,1,0.017,5.0,0.002,244
+Cafe Bar Europa,False,1,0.017,6.0,0.002,245
+Pita'NJoy,False,1,0.017,5.0,0.002,246
+Santorini Greek Island Grill,False,1,0.017,2.0,0.002,247
+Daphne's California Greek,False,1,0.017,6.0,0.002,248
+Puesto at The Headquarters,False,1,0.017,2.0,0.002,249
+Salvatore's Cucina & Lounge,False,1,0.017,3.0,0.002,250
+Huntress Grill,False,1,0.017,4.0,0.002,251
+The Fish Market,False,1,0.017,5.0,0.002,252
+Vincenzo Cucina and Lounge,False,1,0.017,7.0,0.002,253
+Allegro,False,1,0.017,8.0,0.002,254
+Nick & G's,False,1,0.017,9.0,0.002,255
+City Tacos,False,1,0.017,5.0,0.002,256
+The Sandbox,False,1,0.017,8.0,0.002,257
+Alternativa,False,1,0.017,13.0,0.002,258
+J-K's Greek Cafe,False,1,0.017,4.0,0.002,259
+Troy's Authentic Greek Cuisine,False,1,0.017,5.0,0.002,260
+Cherryfish,False,1,0.017,2.0,0.002,261
+El Cevichero,False,1,0.017,7.0,0.002,262

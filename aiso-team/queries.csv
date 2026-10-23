@@ -1,0 +1,61 @@
+id,query,category,geo
+q01,best Greek food in Pacific Beach,cuisine,PB
+q02,best Greek restaurant in San Diego,cuisine,SD
+q03,Mediterranean restaurant with gluten-free options in San Diego,dietary,SD
+q04,happy hour with good food near Garnet Ave,happy_hour,PB-street
+q05,where to host a rehearsal dinner in Pacific Beach,group_events,PB
+q06,date night spot in PB with good cocktails,occasion,PB
+q07,best gyro in Pacific Beach,dish,PB
+q08,where can I get good souvlaki in San Diego,dish,SD
+q09,vegan friendly restaurants in Pacific Beach,dietary,PB
+q10,vegetarian Mediterranean food near Mission Beach,dietary,nearby
+q11,best happy hour in Pacific Beach with small plates,happy_hour,PB
+q12,cheap happy hour food in PB,happy_hour,PB
+q13,restaurants for a large group dinner in Pacific Beach,group_events,PB
+q14,private event space for 30 people in Pacific Beach,group_events,PB
+q15,Greek catering in San Diego,catering,SD
+q16,Mediterranean catering for an office lunch in San Diego,catering,SD
+q17,good lunch spots on Garnet Ave,broad,PB-street
+q18,good restaurant near Crystal Pier,broad,PB
+q19,family friendly restaurant in Pacific Beach,occasion,PB
+q20,best lamb dish in San Diego,dish,SD
+q21,where to get moussaka in San Diego,dish,SD
+q22,gluten free restaurants in Pacific Beach,dietary,PB
+q23,healthy lunch in Pacific Beach,broad,PB
+q24,birthday dinner in Pacific Beach,occasion,PB
+q25,anniversary dinner at a Mediterranean restaurant in San Diego,occasion,SD
+q26,cocktail bar with good food in Pacific Beach,happy_hour,PB
+q27,restaurants with unique cocktails in San Diego,occasion,SD
+q28,best falafel in Pacific Beach,dish,PB
+q29,hummus and pita near Mission Bay,dish,nearby
+q30,long-running local restaurants in Pacific Beach,broad,PB
+q31,best Mediterranean food near La Jolla,cuisine,nearby
+q32,Greek food near Mission Bay,cuisine,nearby
+q33,Greek food near Clairemont,cuisine,nearby
+q34,first date restaurant in Pacific Beach,occasion,PB
+q35,casual dinner spot in PB that isn't a loud bar,occasion,PB
+q36,best Mediterranean restaurant in San Diego,cuisine,SD
+q37,what are the best restaurants in Pacific Beach,broad,PB
+q38,where do locals eat in Pacific Beach,broad,PB
+q39,restaurant for a team dinner in San Diego,group_events,SD
+q40,baby shower venue in Pacific Beach,group_events,PB
+q41,graduation dinner in Pacific Beach for 15 people,group_events,PB
+q42,restaurants with vegan options and a full bar in San Diego,dietary,SD
+q43,dairy-free Mediterranean food in San Diego,dietary,SD
+q44,Greek restaurant with happy hour in San Diego,happy_hour,SD
+q45,affordable Mediterranean dinner in PB,price,PB
+q46,nice but not too expensive dinner in Pacific Beach,price,PB
+q47,best spanakopita in San Diego,dish,SD
+q48,restaurant with Greek wine in San Diego,cuisine,SD
+q49,visiting Pacific Beach for the weekend where should I eat,broad,PB
+q50,dinner near Mission Bay Park,broad,nearby
+q51,Mediterranean takeout in Pacific Beach,cuisine,PB
+q52,restaurant for a group of friends in their 20s in PB,group_events,PB
+q53,Greek restaurant open on Sunday in San Diego,cuisine,SD
+q54,mezze and small plates restaurant in San Diego,cuisine,SD
+q55,tapas in Pacific Beach,cuisine,PB
+q56,best Greek restaurant near UCSD,cuisine,nearby
+q57,pescatarian friendly restaurant in Pacific Beach,dietary,PB
+q58,where to eat in Pacific Beach with a celiac friend,dietary,PB
+q59,restaurant that can host a corporate event in San Diego,group_events,SD
+q60,Greek restaurant that has been around a long time in San Diego,cuisine,SD

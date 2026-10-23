@@ -1,0 +1,30 @@
+timestamp,action,artifact,note
+2026-10-23T22:37:57,generated,schema.jsonld,
+2026-10-23T22:38:03,generated,faq.md,
+2026-10-23T22:38:03,generated,about.md,
+2026-10-23T22:38:03,generated,catering.md,
+2026-10-23T22:38:03,generated,private-events.md,
+2026-10-23T22:38:03,generated,gluten-free-vegan.md,
+2026-10-23T22:38:07,generated,happy-hour.md,
+2026-10-23T22:38:31,generated,outreach.md,
+2026-10-23T22:38:49,filled-from-own-website,about.md,placeholders 6->5
+2026-10-23T22:38:50,filled-from-own-website,gluten-free-vegan.md,placeholders 11->11
+2026-10-23T22:38:55,filled-from-own-website,catering.md,placeholders 11->10
+2026-10-23T22:38:59,filled-from-own-website,happy-hour.md,placeholders 7->7
+2026-10-23T22:39:04,filled-from-own-website,private-events.md,placeholders 13->12
+2026-10-23T22:39:09,filled-from-own-website,faq.md,placeholders 21->19
+2026-10-23T22:39:23,filled-from-own-website,schema.jsonld,placeholders 31->24
+2026-10-23T22:55:12,approved+published,about.md,5 placeholders
+2026-10-23T22:55:17,approved+published,catering.md,10 placeholders
+2026-10-23T22:55:18,approved+published,faq.md,19 placeholders
+2026-10-23T22:55:23,approved+published,gluten-free-vegan.md,11 placeholders
+2026-10-23T22:55:25,approved+published,happy-hour.md,6 placeholders
+2026-10-23T22:55:26,approved+published,outreach.md,30 placeholders
+2026-10-23T22:55:27,approved+published,private-events.md,12 placeholders
+2026-10-23T22:55:29,approved+published,schema.jsonld,24 placeholders
+2026-10-23T23:43:54,unpublished,happy-hour.md,
+2026-10-23T23:43:59,approved+published,happy-hour.md,6 placeholders
+2026-10-23T23:44:27,unpublished,happy-hour.md,
+2026-10-23T23:44:41,approved+published,happy-hour.md,6 placeholders
+2026-10-23T23:45:23,unpublished,happy-hour.md,
+2026-10-23T23:45:28,approved+published,happy-hour.md,6 placeholders

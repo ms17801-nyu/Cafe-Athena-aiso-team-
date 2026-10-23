@@ -1,0 +1,283 @@
+{
+  "run_id": "20261023-2230-2ad7",
+  "overall": {
+    "answers": 3,
+    "mention_rate": 0.333,
+    "avg_position": 1.0,
+    "top3_rate": 0.333,
+    "share_of_voice": 0.043,
+    "sov_rank": 7,
+    "restaurants_seen": 20,
+    "leaderboard": [
+      {
+        "restaurant": "Meze Greek Fusion",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.667,
+        "avg_position": 1.5,
+        "share_of_voice": 0.087,
+        "sov_rank": 1
+      },
+      {
+        "restaurant": "ZGARA Greek Grill",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.667,
+        "avg_position": 4.5,
+        "share_of_voice": 0.087,
+        "sov_rank": 2
+      },
+      {
+        "restaurant": "Georgia's Greek Cuisine",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.667,
+        "avg_position": 6.0,
+        "share_of_voice": 0.087,
+        "sov_rank": 3
+      },
+      {
+        "restaurant": "Olympic Cafe",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 2.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 4
+      },
+      {
+        "restaurant": "Athens Market Taverna",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 3.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 5
+      },
+      {
+        "restaurant": "Alexi's Greek Cafe",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 6.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 6
+      },
+      {
+        "restaurant": "Caf\u00e9 Athena",
+        "is_target": true,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 1.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 7
+      },
+      {
+        "restaurant": "Arslan's Gyros",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 2.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 8
+      },
+      {
+        "restaurant": "Mr Shawarma",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 3.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 9
+      },
+      {
+        "restaurant": "Nick The Greek",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 4.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 10
+      },
+      {
+        "restaurant": "Spitz",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 6.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 11
+      },
+      {
+        "restaurant": "Dino's Gyros Greek Cafe and Taverna",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 8.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 12
+      },
+      {
+        "restaurant": "Callie",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 1.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 13
+      },
+      {
+        "restaurant": "Herb & Wood",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 3.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 14
+      },
+      {
+        "restaurant": "Bandar Restaurant",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 4.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 15
+      },
+      {
+        "restaurant": "Spitz Mediterranean Street Food",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 5.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 16
+      },
+      {
+        "restaurant": "The Kebab Shop",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 6.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 17
+      },
+      {
+        "restaurant": "Shawarma House",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 7.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 18
+      },
+      {
+        "restaurant": "Panini Kabob Grill",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 8.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 19
+      },
+      {
+        "restaurant": "Pita House",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.333,
+        "avg_position": 9.0,
+        "share_of_voice": 0.043,
+        "sov_rank": 20
+      }
+    ]
+  },
+  "by_platform": {
+    "claude": {
+      "answers": 3,
+      "mention_rate": 0.333,
+      "avg_position": 1.0,
+      "top3_rate": 0.333,
+      "share_of_voice": 0.043,
+      "sov_rank": 7,
+      "restaurants_seen": 20
+    }
+  },
+  "by_category": {
+    "cuisine": {
+      "answers": 2,
+      "mention_rate": 0.5,
+      "avg_position": 1.0,
+      "top3_rate": 0.5,
+      "share_of_voice": 0.071,
+      "sov_rank": 7,
+      "restaurants_seen": 12
+    },
+    "dietary": {
+      "answers": 1,
+      "mention_rate": 0.0,
+      "avg_position": null,
+      "top3_rate": 0.0,
+      "share_of_voice": 0,
+      "sov_rank": null,
+      "restaurants_seen": 9
+    }
+  },
+  "lost_queries": [
+    {
+      "query_id": "q02",
+      "query": "best Greek restaurant in San Diego",
+      "category": "cuisine",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Meze Greek Fusion",
+        "Olympic Cafe",
+        "Athens Market Taverna"
+      ]
+    },
+    {
+      "query_id": "q03",
+      "query": "Mediterranean restaurant with gluten-free options in San Diego",
+      "category": "dietary",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Callie",
+        "Meze Greek Fusion",
+        "Herb & Wood"
+      ]
+    }
+  ],
+  "top_cited_sources": [
+    [
+      "yelp.com",
+      5
+    ],
+    [
+      "findmeglutenfree.com",
+      4
+    ],
+    [
+      "pitahousesd.com",
+      2
+    ],
+    [
+      "eattheway.com",
+      1
+    ],
+    [
+      "getgreece.com",
+      1
+    ],
+    [
+      "atly.com",
+      1
+    ],
+    [
+      "sandiegorestaurants.com",
+      1
+    ],
+    [
+      "tripadvisor.com",
+      1
+    ]
+  ]
+}

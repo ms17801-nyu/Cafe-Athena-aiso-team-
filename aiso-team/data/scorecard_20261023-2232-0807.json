@@ -1,0 +1,3025 @@
+{
+  "run_id": "20261023-2232-0807",
+  "overall": {
+    "answers": 60,
+    "mention_rate": 0.25,
+    "avg_position": 5.07,
+    "top3_rate": 0.083,
+    "share_of_voice": 0.028,
+    "sov_rank": 1,
+    "restaurants_seen": 262,
+    "leaderboard": [
+      {
+        "restaurant": "Caf\u00e9 Athena",
+        "is_target": true,
+        "answers": 15,
+        "mention_rate": 0.25,
+        "avg_position": 5.07,
+        "share_of_voice": 0.028,
+        "sov_rank": 1
+      },
+      {
+        "restaurant": "Costa Brava",
+        "is_target": false,
+        "answers": 13,
+        "mention_rate": 0.217,
+        "avg_position": 6.0,
+        "share_of_voice": 0.024,
+        "sov_rank": 2
+      },
+      {
+        "restaurant": "Meze Greek Fusion",
+        "is_target": false,
+        "answers": 10,
+        "mention_rate": 0.167,
+        "avg_position": 2.8,
+        "share_of_voice": 0.018,
+        "sov_rank": 3
+      },
+      {
+        "restaurant": "JRDN",
+        "is_target": false,
+        "answers": 10,
+        "mention_rate": 0.167,
+        "avg_position": 5.5,
+        "share_of_voice": 0.018,
+        "sov_rank": 4
+      },
+      {
+        "restaurant": "Spitz",
+        "is_target": false,
+        "answers": 9,
+        "mention_rate": 0.15,
+        "avg_position": 5.89,
+        "share_of_voice": 0.017,
+        "sov_rank": 5
+      },
+      {
+        "restaurant": "Pueblo",
+        "is_target": false,
+        "answers": 9,
+        "mention_rate": 0.15,
+        "avg_position": 6.0,
+        "share_of_voice": 0.017,
+        "sov_rank": 6
+      },
+      {
+        "restaurant": "Pacific Beach AleHouse",
+        "is_target": false,
+        "answers": 9,
+        "mention_rate": 0.15,
+        "avg_position": 6.89,
+        "share_of_voice": 0.017,
+        "sov_rank": 7
+      },
+      {
+        "restaurant": "World Famous",
+        "is_target": false,
+        "answers": 9,
+        "mention_rate": 0.15,
+        "avg_position": 7.56,
+        "share_of_voice": 0.017,
+        "sov_rank": 8
+      },
+      {
+        "restaurant": "Georgia's Greek Cuisine",
+        "is_target": false,
+        "answers": 8,
+        "mention_rate": 0.133,
+        "avg_position": 3.38,
+        "share_of_voice": 0.015,
+        "sov_rank": 9
+      },
+      {
+        "restaurant": "Waterbar",
+        "is_target": false,
+        "answers": 8,
+        "mention_rate": 0.133,
+        "avg_position": 6.75,
+        "share_of_voice": 0.015,
+        "sov_rank": 10
+      },
+      {
+        "restaurant": "Akhis Authentic Shawarma & Kebab",
+        "is_target": false,
+        "answers": 8,
+        "mention_rate": 0.133,
+        "avg_position": 4.5,
+        "share_of_voice": 0.015,
+        "sov_rank": 11
+      },
+      {
+        "restaurant": "Olympic Cafe",
+        "is_target": false,
+        "answers": 7,
+        "mention_rate": 0.117,
+        "avg_position": 2.43,
+        "share_of_voice": 0.013,
+        "sov_rank": 12
+      },
+      {
+        "restaurant": "Athens Market Taverna",
+        "is_target": false,
+        "answers": 7,
+        "mention_rate": 0.117,
+        "avg_position": 4.43,
+        "share_of_voice": 0.013,
+        "sov_rank": 13
+      },
+      {
+        "restaurant": "Alexi's Greek Cafe",
+        "is_target": false,
+        "answers": 7,
+        "mention_rate": 0.117,
+        "avg_position": 4.29,
+        "share_of_voice": 0.013,
+        "sov_rank": 14
+      },
+      {
+        "restaurant": "Flamingo Deck",
+        "is_target": false,
+        "answers": 7,
+        "mention_rate": 0.117,
+        "avg_position": 3.57,
+        "share_of_voice": 0.013,
+        "sov_rank": 15
+      },
+      {
+        "restaurant": "Hideaway",
+        "is_target": false,
+        "answers": 7,
+        "mention_rate": 0.117,
+        "avg_position": 8.0,
+        "share_of_voice": 0.013,
+        "sov_rank": 16
+      },
+      {
+        "restaurant": "Enoteca Adriano",
+        "is_target": false,
+        "answers": 7,
+        "mention_rate": 0.117,
+        "avg_position": 4.29,
+        "share_of_voice": 0.013,
+        "sov_rank": 17
+      },
+      {
+        "restaurant": "Callie",
+        "is_target": false,
+        "answers": 6,
+        "mention_rate": 0.1,
+        "avg_position": 3.33,
+        "share_of_voice": 0.011,
+        "sov_rank": 18
+      },
+      {
+        "restaurant": "Bar Ella",
+        "is_target": false,
+        "answers": 6,
+        "mention_rate": 0.1,
+        "avg_position": 2.33,
+        "share_of_voice": 0.011,
+        "sov_rank": 19
+      },
+      {
+        "restaurant": "Troy's Greek Restaurant",
+        "is_target": false,
+        "answers": 6,
+        "mention_rate": 0.1,
+        "avg_position": 7.33,
+        "share_of_voice": 0.011,
+        "sov_rank": 20
+      },
+      {
+        "restaurant": "Bare Back Grill",
+        "is_target": false,
+        "answers": 6,
+        "mention_rate": 0.1,
+        "avg_position": 6.17,
+        "share_of_voice": 0.011,
+        "sov_rank": 21
+      },
+      {
+        "restaurant": "The Fishery",
+        "is_target": false,
+        "answers": 6,
+        "mention_rate": 0.1,
+        "avg_position": 5.83,
+        "share_of_voice": 0.011,
+        "sov_rank": 22
+      },
+      {
+        "restaurant": "Zgara Greek Grill",
+        "is_target": false,
+        "answers": 5,
+        "mention_rate": 0.083,
+        "avg_position": 5.0,
+        "share_of_voice": 0.009,
+        "sov_rank": 23
+      },
+      {
+        "restaurant": "Pacific Beach Fish Shop",
+        "is_target": false,
+        "answers": 5,
+        "mention_rate": 0.083,
+        "avg_position": 5.0,
+        "share_of_voice": 0.009,
+        "sov_rank": 24
+      },
+      {
+        "restaurant": "Slowly Restaurant & Lounge",
+        "is_target": false,
+        "answers": 5,
+        "mention_rate": 0.083,
+        "avg_position": 3.4,
+        "share_of_voice": 0.009,
+        "sov_rank": 25
+      },
+      {
+        "restaurant": "Nick the Greek",
+        "is_target": false,
+        "answers": 5,
+        "mention_rate": 0.083,
+        "avg_position": 4.2,
+        "share_of_voice": 0.009,
+        "sov_rank": 26
+      },
+      {
+        "restaurant": "Fig Tree Cafe",
+        "is_target": false,
+        "answers": 5,
+        "mention_rate": 0.083,
+        "avg_position": 3.2,
+        "share_of_voice": 0.009,
+        "sov_rank": 27
+      },
+      {
+        "restaurant": "Ambrogio15",
+        "is_target": false,
+        "answers": 5,
+        "mention_rate": 0.083,
+        "avg_position": 5.6,
+        "share_of_voice": 0.009,
+        "sov_rank": 28
+      },
+      {
+        "restaurant": "Kono's Cafe",
+        "is_target": false,
+        "answers": 5,
+        "mention_rate": 0.083,
+        "avg_position": 3.2,
+        "share_of_voice": 0.009,
+        "sov_rank": 29
+      },
+      {
+        "restaurant": "Shawarma Shack",
+        "is_target": false,
+        "answers": 5,
+        "mention_rate": 0.083,
+        "avg_position": 3.0,
+        "share_of_voice": 0.009,
+        "sov_rank": 30
+      },
+      {
+        "restaurant": "Captain's Quarters",
+        "is_target": false,
+        "answers": 4,
+        "mention_rate": 0.067,
+        "avg_position": 3.5,
+        "share_of_voice": 0.007,
+        "sov_rank": 31
+      },
+      {
+        "restaurant": "The Great Greek Mediterranean Grill",
+        "is_target": false,
+        "answers": 4,
+        "mention_rate": 0.067,
+        "avg_position": 5.5,
+        "share_of_voice": 0.007,
+        "sov_rank": 32
+      },
+      {
+        "restaurant": "Powerhaus Wholesome Pizza & Eats",
+        "is_target": false,
+        "answers": 4,
+        "mention_rate": 0.067,
+        "avg_position": 5.5,
+        "share_of_voice": 0.007,
+        "sov_rank": 33
+      },
+      {
+        "restaurant": "Nico's Fish Market",
+        "is_target": false,
+        "answers": 4,
+        "mention_rate": 0.067,
+        "avg_position": 5.0,
+        "share_of_voice": 0.007,
+        "sov_rank": 34
+      },
+      {
+        "restaurant": "Aladdin Cafe",
+        "is_target": false,
+        "answers": 4,
+        "mention_rate": 0.067,
+        "avg_position": 5.5,
+        "share_of_voice": 0.007,
+        "sov_rank": 35
+      },
+      {
+        "restaurant": "Mister A's",
+        "is_target": false,
+        "answers": 4,
+        "mention_rate": 0.067,
+        "avg_position": 8.0,
+        "share_of_voice": 0.007,
+        "sov_rank": 36
+      },
+      {
+        "restaurant": "Broken Yolk Cafe",
+        "is_target": false,
+        "answers": 4,
+        "mention_rate": 0.067,
+        "avg_position": 4.5,
+        "share_of_voice": 0.007,
+        "sov_rank": 37
+      },
+      {
+        "restaurant": "Oscar's Mexican Seafood",
+        "is_target": false,
+        "answers": 4,
+        "mention_rate": 0.067,
+        "avg_position": 5.25,
+        "share_of_voice": 0.007,
+        "sov_rank": 38
+      },
+      {
+        "restaurant": "Herb & Wood",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 4.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 39
+      },
+      {
+        "restaurant": "Pita House",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 6.67,
+        "share_of_voice": 0.006,
+        "sov_rank": 40
+      },
+      {
+        "restaurant": "Arslan's Gyros",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 1.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 41
+      },
+      {
+        "restaurant": "Mr Shawarma",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 3.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 42
+      },
+      {
+        "restaurant": "The Grass Skirt",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 3.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 43
+      },
+      {
+        "restaurant": "Slowly",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 7.0,
+        "share_of_voice": 0.006,
+        "sov_rank": 44
+      },
+      {
+        "restaurant": "The Beverly",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 5.67,
+        "share_of_voice": 0.006,
+        "sov_rank": 45
+      },
+      {
+        "restaurant": "The Collective",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 4.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 46
+      },
+      {
+        "restaurant": "Mr Charlie's",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 6.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 47
+      },
+      {
+        "restaurant": "Armon\u00eda Kitchen",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 2.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 48
+      },
+      {
+        "restaurant": "Kindred",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 6.0,
+        "share_of_voice": 0.006,
+        "sov_rank": 49
+      },
+      {
+        "restaurant": "Sushi Ota",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 7.0,
+        "share_of_voice": 0.006,
+        "sov_rank": 50
+      },
+      {
+        "restaurant": "Yanni's Bar & Grill",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 7.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 51
+      },
+      {
+        "restaurant": "Micheline's Pita House",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 2.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 52
+      },
+      {
+        "restaurant": "Oceana Coastal Kitchen",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 5.0,
+        "share_of_voice": 0.006,
+        "sov_rank": 53
+      },
+      {
+        "restaurant": "Taco Surf",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 5.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 54
+      },
+      {
+        "restaurant": "Woody's Breakfast and Burgers",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 6.67,
+        "share_of_voice": 0.006,
+        "sov_rank": 55
+      },
+      {
+        "restaurant": "Leila",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 4.67,
+        "share_of_voice": 0.006,
+        "sov_rank": 56
+      },
+      {
+        "restaurant": "Scuderie Italia",
+        "is_target": false,
+        "answers": 3,
+        "mention_rate": 0.05,
+        "avg_position": 7.33,
+        "share_of_voice": 0.006,
+        "sov_rank": 57
+      },
+      {
+        "restaurant": "Spitz Mediterranean Street Food",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 5.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 58
+      },
+      {
+        "restaurant": "The Kebab Shop",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 5.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 59
+      },
+      {
+        "restaurant": "Shawarma House",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 6.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 60
+      },
+      {
+        "restaurant": "Petrino's Greek Restaurant",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 9.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 61
+      },
+      {
+        "restaurant": "Yard and Sea",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 6.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 62
+      },
+      {
+        "restaurant": "Kojack's",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 3.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 63
+      },
+      {
+        "restaurant": "Ya Halla Mediterranean Grill",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 6.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 64
+      },
+      {
+        "restaurant": "The Local",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 5.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 65
+      },
+      {
+        "restaurant": "Second Nature",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 5.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 66
+      },
+      {
+        "restaurant": "Spice Lounge",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 8.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 67
+      },
+      {
+        "restaurant": "Breakfast Republic",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 6.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 68
+      },
+      {
+        "restaurant": "Greek Corner Cafe",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 6.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 69
+      },
+      {
+        "restaurant": "Shawarma House SD",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 2.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 70
+      },
+      {
+        "restaurant": "Baked Bear",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 9.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 71
+      },
+      {
+        "restaurant": "PB Pho & Grill",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 6.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 72
+      },
+      {
+        "restaurant": "Oltre Mare",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 7.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 73
+      },
+      {
+        "restaurant": "Mr. Frostie",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 6.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 74
+      },
+      {
+        "restaurant": "Trident Coffee",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 2.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 75
+      },
+      {
+        "restaurant": "Square Pizza Co",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 5.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 76
+      },
+      {
+        "restaurant": "The Crack Shack",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 6.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 77
+      },
+      {
+        "restaurant": "C Level",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 8.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 78
+      },
+      {
+        "restaurant": "BoujieMana",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 3.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 79
+      },
+      {
+        "restaurant": "Pita Bowl",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 7.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 80
+      },
+      {
+        "restaurant": "Mothership",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 6.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 81
+      },
+      {
+        "restaurant": "Rocky's Crown Pub",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 7.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 82
+      },
+      {
+        "restaurant": "Greek Palace",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 4.0,
+        "share_of_voice": 0.004,
+        "sov_rank": 83
+      },
+      {
+        "restaurant": "Marketplace Grille",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 2.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 84
+      },
+      {
+        "restaurant": "Harbor Greek Cafe",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 5.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 85
+      },
+      {
+        "restaurant": "Bosforo",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 4.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 86
+      },
+      {
+        "restaurant": "Mimoza",
+        "is_target": false,
+        "answers": 2,
+        "mention_rate": 0.033,
+        "avg_position": 8.5,
+        "share_of_voice": 0.004,
+        "sov_rank": 87
+      },
+      {
+        "restaurant": "Bandar Restaurant",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 88
+      },
+      {
+        "restaurant": "PITA 22",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 89
+      },
+      {
+        "restaurant": "Tavern at the Beach",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 90
+      },
+      {
+        "restaurant": "Mavericks Beach Club",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 91
+      },
+      {
+        "restaurant": "Cabo Cantina",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 92
+      },
+      {
+        "restaurant": "Union Kitchen & Tap",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 93
+      },
+      {
+        "restaurant": "Good Time Poke",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 94
+      },
+      {
+        "restaurant": "Laylow Speakeasy",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 95
+      },
+      {
+        "restaurant": "Nite Owl Cocktail Lounge",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 96
+      },
+      {
+        "restaurant": "Moe's Steakhouse",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 97
+      },
+      {
+        "restaurant": "Chic Boho Event Space in Pacific Beach",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 98
+      },
+      {
+        "restaurant": "Outdoor Oasis",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 99
+      },
+      {
+        "restaurant": "TapRoom",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 100
+      },
+      {
+        "restaurant": "Puesto La Jolla",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 12.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 101
+      },
+      {
+        "restaurant": "George's at the Cove",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 13.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 102
+      },
+      {
+        "restaurant": "Duke's La Jolla",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 14.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 103
+      },
+      {
+        "restaurant": "Slowly Bar and Restaurant",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 104
+      },
+      {
+        "restaurant": "Aladdin",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 105
+      },
+      {
+        "restaurant": "710 Beach Club",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 106
+      },
+      {
+        "restaurant": "Dirty Birds",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 107
+      },
+      {
+        "restaurant": "The Open Bar",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 108
+      },
+      {
+        "restaurant": "Plant Power",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 109
+      },
+      {
+        "restaurant": "Roots",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 110
+      },
+      {
+        "restaurant": "Sipz",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 10.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 111
+      },
+      {
+        "restaurant": "Trilogy Sanctuary",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 11.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 112
+      },
+      {
+        "restaurant": "Donna Jean",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 14.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 113
+      },
+      {
+        "restaurant": "The Yasai",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 15.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 114
+      },
+      {
+        "restaurant": "Rakiraki Ramen",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 16.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 115
+      },
+      {
+        "restaurant": "Scuderi Italia",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 116
+      },
+      {
+        "restaurant": "Sifnos Greek Catering",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 1.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 117
+      },
+      {
+        "restaurant": "Greek Palace Catering",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 118
+      },
+      {
+        "restaurant": "Zorbas Greek Catering",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 119
+      },
+      {
+        "restaurant": "Mr. Greek",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 120
+      },
+      {
+        "restaurant": "Taconora",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 121
+      },
+      {
+        "restaurant": "Dave's Hot Chicken",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 122
+      },
+      {
+        "restaurant": "Mission Bagel",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 123
+      },
+      {
+        "restaurant": "The Mad Beet",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 124
+      },
+      {
+        "restaurant": "Himalayan Spice & Savor",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 10.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 125
+      },
+      {
+        "restaurant": "Sauced Pizzeria",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 126
+      },
+      {
+        "restaurant": "Sandbox Pizza",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 127
+      },
+      {
+        "restaurant": "Georgia's Greek Quisine",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 128
+      },
+      {
+        "restaurant": "Beer Garden/TapRoom",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 129
+      },
+      {
+        "restaurant": "Maverick's",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 130
+      },
+      {
+        "restaurant": "Rose Creek Cottage",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 131
+      },
+      {
+        "restaurant": "Medina Art Studios",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 132
+      },
+      {
+        "restaurant": "Chic Boho Event Space",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 133
+      },
+      {
+        "restaurant": "The Block",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 134
+      },
+      {
+        "restaurant": "PorchLight Coffee",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 135
+      },
+      {
+        "restaurant": "Orchid Persian Cuisine",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 1.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 136
+      },
+      {
+        "restaurant": "Pomegranate Russian-Georgian",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 137
+      },
+      {
+        "restaurant": "Baba Kabob",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 138
+      },
+      {
+        "restaurant": "Addis Ethiopian",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 139
+      },
+      {
+        "restaurant": "Khan's Cave",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 140
+      },
+      {
+        "restaurant": "The Smoking Goat",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 141
+      },
+      {
+        "restaurant": "Island Prime",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 142
+      },
+      {
+        "restaurant": "Parc Bistro-Brasserie",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 11.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 143
+      },
+      {
+        "restaurant": "Bistro du March\u00e9",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 12.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 144
+      },
+      {
+        "restaurant": "A.R. Valentien",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 13.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 145
+      },
+      {
+        "restaurant": "Hongyuan Kebab",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 14.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 146
+      },
+      {
+        "restaurant": "Xinjiang BBQ",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 15.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 147
+      },
+      {
+        "restaurant": "Verbena Kitchen",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 16.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 148
+      },
+      {
+        "restaurant": "SD TapRoom",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 149
+      },
+      {
+        "restaurant": "Seaside Pizza Co.",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 150
+      },
+      {
+        "restaurant": "The Pad Thai Stand",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 11.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 151
+      },
+      {
+        "restaurant": "Fish & Things Poke Bar",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 152
+      },
+      {
+        "restaurant": "Mary's Salads",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 153
+      },
+      {
+        "restaurant": "FIREHOUSE",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 154
+      },
+      {
+        "restaurant": "Pastiamo",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 155
+      },
+      {
+        "restaurant": "The Remy",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 12.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 156
+      },
+      {
+        "restaurant": "Herb & Sea",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 157
+      },
+      {
+        "restaurant": "Leu Leu",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 158
+      },
+      {
+        "restaurant": "The Beverly Beach Garden",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 159
+      },
+      {
+        "restaurant": "Realm of the 52 Remedies",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 1.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 160
+      },
+      {
+        "restaurant": "Common Theory",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 161
+      },
+      {
+        "restaurant": "False Idol",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 162
+      },
+      {
+        "restaurant": "Oculto 477",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 163
+      },
+      {
+        "restaurant": "Tahona",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 164
+      },
+      {
+        "restaurant": "Young Blood",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 165
+      },
+      {
+        "restaurant": "Bar Kamon",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 166
+      },
+      {
+        "restaurant": "Convoy Music Bar",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 167
+      },
+      {
+        "restaurant": "Botanica",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 10.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 168
+      },
+      {
+        "restaurant": "Polite Provisions",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 12.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 169
+      },
+      {
+        "restaurant": "Raised by Wolves",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 13.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 170
+      },
+      {
+        "restaurant": "Lou Lou's",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 15.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 171
+      },
+      {
+        "restaurant": "Lafayette",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 16.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 172
+      },
+      {
+        "restaurant": "Halal City",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 1.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 173
+      },
+      {
+        "restaurant": "Keto Grill",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 174
+      },
+      {
+        "restaurant": "Oren's Hummus",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 175
+      },
+      {
+        "restaurant": "Old Jerusalem Restaurant",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 176
+      },
+      {
+        "restaurant": "Reem's",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 177
+      },
+      {
+        "restaurant": "Mezze and Mooore",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 178
+      },
+      {
+        "restaurant": "Dockside 1953",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 179
+      },
+      {
+        "restaurant": "Nite Owl",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 180
+      },
+      {
+        "restaurant": "The French Gourmet",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 181
+      },
+      {
+        "restaurant": "Kono's Surf Club Cafe",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 182
+      },
+      {
+        "restaurant": "Giulio's",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 183
+      },
+      {
+        "restaurant": "Jack & Giulio's",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 10.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 184
+      },
+      {
+        "restaurant": "Dino's Gyros Greek Cafe & Taverna",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 1.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 185
+      },
+      {
+        "restaurant": "Luna Grill Clairemont",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 186
+      },
+      {
+        "restaurant": "Zoya",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 1.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 187
+      },
+      {
+        "restaurant": "Spiro's Mediterranean Cuisine",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 188
+      },
+      {
+        "restaurant": "Beeside Balcony",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 189
+      },
+      {
+        "restaurant": "Mediterranean Room",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 190
+      },
+      {
+        "restaurant": "We Olive & Wine Bar",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 191
+      },
+      {
+        "restaurant": "Gyros on Wheels",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 192
+      },
+      {
+        "restaurant": "SF Kebab",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 10.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 193
+      },
+      {
+        "restaurant": "Souvla",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 11.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 194
+      },
+      {
+        "restaurant": "The Parthenon",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 12.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 195
+      },
+      {
+        "restaurant": "Kokkari Estiatorio",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 13.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 196
+      },
+      {
+        "restaurant": "Milos Meze",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 14.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 197
+      },
+      {
+        "restaurant": "Nick's at the Beach",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 198
+      },
+      {
+        "restaurant": "Maisa Lebanese Cuisine",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 199
+      },
+      {
+        "restaurant": "Truva",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 200
+      },
+      {
+        "restaurant": "Kebab Craft",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 11.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 201
+      },
+      {
+        "restaurant": "Abraj",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 12.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 202
+      },
+      {
+        "restaurant": "La Playa Taco Shop",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 203
+      },
+      {
+        "restaurant": "Leilani's Cafe",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 204
+      },
+      {
+        "restaurant": "Born & Raised",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 205
+      },
+      {
+        "restaurant": "Fort Oak",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 206
+      },
+      {
+        "restaurant": "Juniper & Ivy",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 207
+      },
+      {
+        "restaurant": "Kettner Exchange",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 208
+      },
+      {
+        "restaurant": "Catania",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 209
+      },
+      {
+        "restaurant": "Cesarina",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 210
+      },
+      {
+        "restaurant": "Gravity Heights",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 211
+      },
+      {
+        "restaurant": "Stone Brewing",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 10.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 212
+      },
+      {
+        "restaurant": "Rose Creek Cottage 1900",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 213
+      },
+      {
+        "restaurant": "The Point",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 214
+      },
+      {
+        "restaurant": "Julep Venue",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 215
+      },
+      {
+        "restaurant": "Ocean Park Inn",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 216
+      },
+      {
+        "restaurant": "Civico 1845",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 217
+      },
+      {
+        "restaurant": "Great Maple",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 218
+      },
+      {
+        "restaurant": "Melting Pot",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 219
+      },
+      {
+        "restaurant": "Huntress",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 220
+      },
+      {
+        "restaurant": "Mr. A's",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 221
+      },
+      {
+        "restaurant": "Malibu Farm",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 222
+      },
+      {
+        "restaurant": "So Saap",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 10.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 223
+      },
+      {
+        "restaurant": "Tacotarian",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 11.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 224
+      },
+      {
+        "restaurant": "Panini Kabob Grill",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 1.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 225
+      },
+      {
+        "restaurant": "Cafe21",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 226
+      },
+      {
+        "restaurant": "Troy's",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 227
+      },
+      {
+        "restaurant": "Zgara",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 228
+      },
+      {
+        "restaurant": "Bubba's Smokehouse BBQ",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 229
+      },
+      {
+        "restaurant": "Baja Beach Cafe",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 230
+      },
+      {
+        "restaurant": "PB Shore Club",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 17.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 231
+      },
+      {
+        "restaurant": "Tidal",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 1.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 232
+      },
+      {
+        "restaurant": "Red Marlin Restaurant & Terrace",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 233
+      },
+      {
+        "restaurant": "Charli's Landing",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 234
+      },
+      {
+        "restaurant": "Cannonball",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 235
+      },
+      {
+        "restaurant": "Baci Ristorante Italiano",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 236
+      },
+      {
+        "restaurant": "Covewood",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 237
+      },
+      {
+        "restaurant": "Bianchi Pizza & Pasta",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 238
+      },
+      {
+        "restaurant": "Miss B's Coconut Club",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 239
+      },
+      {
+        "restaurant": "Barefoot Bar & Grill",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 10.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 240
+      },
+      {
+        "restaurant": "Backyard Kitchen and Tap",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 241
+      },
+      {
+        "restaurant": "Mimoza Mediterranean",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 242
+      },
+      {
+        "restaurant": "Tahini",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 243
+      },
+      {
+        "restaurant": "Pata Negra Market",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 244
+      },
+      {
+        "restaurant": "Cafe Bar Europa",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 245
+      },
+      {
+        "restaurant": "Pita'NJoy",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 246
+      },
+      {
+        "restaurant": "Santorini Greek Island Grill",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 247
+      },
+      {
+        "restaurant": "Daphne's California Greek",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 6.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 248
+      },
+      {
+        "restaurant": "Puesto at The Headquarters",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 249
+      },
+      {
+        "restaurant": "Salvatore's Cucina & Lounge",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 3.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 250
+      },
+      {
+        "restaurant": "Huntress Grill",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 251
+      },
+      {
+        "restaurant": "The Fish Market",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 252
+      },
+      {
+        "restaurant": "Vincenzo Cucina and Lounge",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 253
+      },
+      {
+        "restaurant": "Allegro",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 254
+      },
+      {
+        "restaurant": "Nick & G's",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 9.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 255
+      },
+      {
+        "restaurant": "City Tacos",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 256
+      },
+      {
+        "restaurant": "The Sandbox",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 8.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 257
+      },
+      {
+        "restaurant": "Alternativa",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 13.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 258
+      },
+      {
+        "restaurant": "J-K's Greek Cafe",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 4.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 259
+      },
+      {
+        "restaurant": "Troy's Authentic Greek Cuisine",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 5.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 260
+      },
+      {
+        "restaurant": "Cherryfish",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 2.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 261
+      },
+      {
+        "restaurant": "El Cevichero",
+        "is_target": false,
+        "answers": 1,
+        "mention_rate": 0.017,
+        "avg_position": 7.0,
+        "share_of_voice": 0.002,
+        "sov_rank": 262
+      }
+    ]
+  },
+  "by_platform": {
+    "claude": {
+      "answers": 60,
+      "mention_rate": 0.25,
+      "avg_position": 5.07,
+      "top3_rate": 0.083,
+      "share_of_voice": 0.028,
+      "sov_rank": 1,
+      "restaurants_seen": 262
+    }
+  },
+  "by_category": {
+    "broad": {
+      "answers": 8,
+      "mention_rate": 0.125,
+      "avg_position": 9.0,
+      "top3_rate": 0.0,
+      "share_of_voice": 0.011,
+      "sov_rank": 27,
+      "restaurants_seen": 57
+    },
+    "catering": {
+      "answers": 2,
+      "mention_rate": 0.0,
+      "avg_position": null,
+      "top3_rate": 0.0,
+      "share_of_voice": 0,
+      "sov_rank": null,
+      "restaurants_seen": 10
+    },
+    "cuisine": {
+      "answers": 13,
+      "mention_rate": 0.462,
+      "avg_position": 4.83,
+      "top3_rate": 0.231,
+      "share_of_voice": 0.061,
+      "sov_rank": 1,
+      "restaurants_seen": 60
+    },
+    "dietary": {
+      "answers": 8,
+      "mention_rate": 0.0,
+      "avg_position": null,
+      "top3_rate": 0.0,
+      "share_of_voice": 0,
+      "sov_rank": null,
+      "restaurants_seen": 68
+    },
+    "dish": {
+      "answers": 7,
+      "mention_rate": 0.714,
+      "avg_position": 6.0,
+      "top3_rate": 0.0,
+      "share_of_voice": 0.077,
+      "sov_rank": 1,
+      "restaurants_seen": 45
+    },
+    "group_events": {
+      "answers": 8,
+      "mention_rate": 0.0,
+      "avg_position": null,
+      "top3_rate": 0.0,
+      "share_of_voice": 0,
+      "sov_rank": null,
+      "restaurants_seen": 54
+    },
+    "happy_hour": {
+      "answers": 5,
+      "mention_rate": 0.2,
+      "avg_position": 3.0,
+      "top3_rate": 0.2,
+      "share_of_voice": 0.029,
+      "sov_rank": 27,
+      "restaurants_seen": 29
+    },
+    "occasion": {
+      "answers": 7,
+      "mention_rate": 0.143,
+      "avg_position": 1.0,
+      "top3_rate": 0.143,
+      "share_of_voice": 0.015,
+      "sov_rank": 52,
+      "restaurants_seen": 55
+    },
+    "price": {
+      "answers": 2,
+      "mention_rate": 0.5,
+      "avg_position": 4.0,
+      "top3_rate": 0.0,
+      "share_of_voice": 0.071,
+      "sov_rank": 4,
+      "restaurants_seen": 14
+    }
+  },
+  "lost_queries": [
+    {
+      "query_id": "q02",
+      "query": "best Greek restaurant in San Diego",
+      "category": "cuisine",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Olympic Cafe",
+        "Meze Greek Fusion",
+        "Athens Market Taverna"
+      ]
+    },
+    {
+      "query_id": "q03",
+      "query": "Mediterranean restaurant with gluten-free options in San Diego",
+      "category": "dietary",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Callie",
+        "Herb & Wood",
+        "Meze Greek Fusion"
+      ]
+    },
+    {
+      "query_id": "q04",
+      "query": "happy hour with good food near Garnet Ave",
+      "category": "happy_hour",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Costa Brava",
+        "bar Ella",
+        "Fish Shop"
+      ]
+    },
+    {
+      "query_id": "q06",
+      "query": "date night spot in PB with good cocktails",
+      "category": "occasion",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Bar Ella",
+        "The Grass Skirt",
+        "Good Time Poke"
+      ]
+    },
+    {
+      "query_id": "q05",
+      "query": "where to host a rehearsal dinner in Pacific Beach",
+      "category": "group_events",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Waterbar",
+        "Pueblo",
+        "Bare Back Grill"
+      ]
+    },
+    {
+      "query_id": "q10",
+      "query": "vegetarian Mediterranean food near Mission Beach",
+      "category": "dietary",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Arslan's Gyros",
+        "Kojack's Restaurant",
+        "Akhis Authentic Shawarma & Kebab"
+      ]
+    },
+    {
+      "query_id": "q12",
+      "query": "cheap happy hour food in PB",
+      "category": "happy_hour",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Slowly",
+        "Bar Ella",
+        "The Local"
+      ]
+    },
+    {
+      "query_id": "q09",
+      "query": "vegan friendly restaurants in Pacific Beach",
+      "category": "dietary",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Mr. Charlie's",
+        "Spitz",
+        "Armon\u00eda Kitchen"
+      ]
+    },
+    {
+      "query_id": "q11",
+      "query": "best happy hour in Pacific Beach with small plates",
+      "category": "happy_hour",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Bar Ella",
+        "JRDN",
+        "Pueblo"
+      ]
+    },
+    {
+      "query_id": "q15",
+      "query": "Greek catering in San Diego",
+      "category": "catering",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Sifnos Greek Catering",
+        "Georgia's Greek Cuisine",
+        "Olympic Cafe"
+      ]
+    },
+    {
+      "query_id": "q13",
+      "query": "restaurants for a large group dinner in Pacific Beach",
+      "category": "group_events",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Flamingo Deck",
+        "Pueblo",
+        "Pacific Beach AleHouse"
+      ]
+    },
+    {
+      "query_id": "q16",
+      "query": "Mediterranean catering for an office lunch in San Diego",
+      "category": "catering",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Shawarma House SD",
+        "Yanni's Bar & Grill",
+        "Micheline's Pita House"
+      ]
+    },
+    {
+      "query_id": "q18",
+      "query": "good restaurant near Crystal Pier",
+      "category": "broad",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "JRDN",
+        "Oceana Coastal Kitchen",
+        "Waterbar"
+      ]
+    },
+    {
+      "query_id": "q19",
+      "query": "family friendly restaurant in Pacific Beach",
+      "category": "occasion",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Kono's Cafe",
+        "Pacific Beach Fish Shop",
+        "Taco Surf"
+      ]
+    },
+    {
+      "query_id": "q14",
+      "query": "private event space for 30 people in Pacific Beach",
+      "category": "group_events",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "The Collective",
+        "Beer Garden/TapRoom",
+        "Maverick's"
+      ]
+    },
+    {
+      "query_id": "q20",
+      "query": "best lamb dish in San Diego",
+      "category": "dish",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Orchid Persian Cuisine",
+        "Pomegranate Russian-Georgian",
+        "Aladdin Cafe"
+      ]
+    },
+    {
+      "query_id": "q22",
+      "query": "gluten free restaurants in Pacific Beach",
+      "category": "dietary",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Fig Tree Cafe",
+        "Trident Coffee",
+        "Armon\u00eda Kitchen"
+      ]
+    },
+    {
+      "query_id": "q23",
+      "query": "healthy lunch in Pacific Beach",
+      "category": "broad",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Armon\u00eda Kitchen",
+        "Powerhaus Wholesome Pizza & Eats",
+        "Shawarma Shack"
+      ]
+    },
+    {
+      "query_id": "q24",
+      "query": "birthday dinner in Pacific Beach",
+      "category": "occasion",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "JRDN",
+        "FIREHOUSE",
+        "Flamingo Deck"
+      ]
+    },
+    {
+      "query_id": "q25",
+      "query": "anniversary dinner at a Mediterranean restaurant in San Diego",
+      "category": "occasion",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Callie",
+        "Mister A's",
+        "Herb & Sea"
+      ]
+    },
+    {
+      "query_id": "q26",
+      "query": "cocktail bar with good food in Pacific Beach",
+      "category": "happy_hour",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "The Grass Skirt",
+        "Captain's Quarters",
+        "Flamingo Deck"
+      ]
+    },
+    {
+      "query_id": "q27",
+      "query": "restaurants with unique cocktails in San Diego",
+      "category": "occasion",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Realm of the 52 Remedies",
+        "Common Theory",
+        "False Idol"
+      ]
+    },
+    {
+      "query_id": "q29",
+      "query": "hummus and pita near Mission Bay",
+      "category": "dish",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Halal City",
+        "Keto Grill",
+        "Oren's Hummus"
+      ]
+    },
+    {
+      "query_id": "q30",
+      "query": "long-running local restaurants in Pacific Beach",
+      "category": "broad",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Mr. Frostie",
+        "World Famous",
+        "Nite Owl"
+      ]
+    },
+    {
+      "query_id": "q31",
+      "query": "best Mediterranean food near La Jolla",
+      "category": "cuisine",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Zoya",
+        "Marketplace Grille",
+        "Micheline's Pita House"
+      ]
+    },
+    {
+      "query_id": "q34",
+      "query": "first date restaurant in Pacific Beach",
+      "category": "occasion",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Hideaway",
+        "Enoteca Adriano",
+        "Slowly Restaurant & Lounge"
+      ]
+    },
+    {
+      "query_id": "q37",
+      "query": "what are the best restaurants in Pacific Beach",
+      "category": "broad",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "The Fishery",
+        "Sushi Ota",
+        "Nico's Fish Market"
+      ]
+    },
+    {
+      "query_id": "q38",
+      "query": "where do locals eat in Pacific Beach",
+      "category": "broad",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Kono's Cafe",
+        "Broken Yolk Cafe",
+        "Fig Tree Cafe"
+      ]
+    },
+    {
+      "query_id": "q39",
+      "query": "restaurant for a team dinner in San Diego",
+      "category": "group_events",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Herb & Wood",
+        "Born & Raised",
+        "Fort Oak"
+      ]
+    },
+    {
+      "query_id": "q40",
+      "query": "baby shower venue in Pacific Beach",
+      "category": "group_events",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "The Collective",
+        "Rose Creek Cottage 1900",
+        "Yard and Sea"
+      ]
+    },
+    {
+      "query_id": "q41",
+      "query": "graduation dinner in Pacific Beach for 15 people",
+      "category": "group_events",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Slowly Restaurant & Lounge",
+        "Flamingo Deck",
+        "The Beverly"
+      ]
+    },
+    {
+      "query_id": "q42",
+      "query": "restaurants with vegan options and a full bar in San Diego",
+      "category": "dietary",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Kindred",
+        "Mothership",
+        "Civico 1845"
+      ]
+    },
+    {
+      "query_id": "q43",
+      "query": "dairy-free Mediterranean food in San Diego",
+      "category": "dietary",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Panini Kabob Grill",
+        "Cafe21",
+        "Shawarma House SD"
+      ]
+    },
+    {
+      "query_id": "q48",
+      "query": "restaurant with Greek wine in San Diego",
+      "category": "cuisine",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Meze Greek Fusion",
+        "Georgia's Greek Cuisine",
+        "Athens Market Taverna"
+      ]
+    },
+    {
+      "query_id": "q46",
+      "query": "nice but not too expensive dinner in Pacific Beach",
+      "category": "price",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Costa Brava",
+        "Enoteca Adriano",
+        "Hideaway"
+      ]
+    },
+    {
+      "query_id": "q49",
+      "query": "visiting Pacific Beach for the weekend where should I eat",
+      "category": "broad",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Kono's Cafe",
+        "Woody's Breakfast and Burgers",
+        "Broken Yolk Cafe"
+      ]
+    },
+    {
+      "query_id": "q50",
+      "query": "dinner near Mission Bay Park",
+      "category": "broad",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Tidal",
+        "Red Marlin Restaurant & Terrace",
+        "Charli's Landing"
+      ]
+    },
+    {
+      "query_id": "q52",
+      "query": "restaurant for a group of friends in their 20s in PB",
+      "category": "group_events",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Costa Brava",
+        "World Famous",
+        "Waterbar"
+      ]
+    },
+    {
+      "query_id": "q53",
+      "query": "Greek restaurant open on Sunday in San Diego",
+      "category": "cuisine",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Troy's Greek Restaurant",
+        "Meze Greek Fusion",
+        "Nick the Greek"
+      ]
+    },
+    {
+      "query_id": "q54",
+      "query": "mezze and small plates restaurant in San Diego",
+      "category": "cuisine",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Mez\u00e9 Greek Fusion",
+        "Mimoza Mediterranean",
+        "Bosforo"
+      ]
+    },
+    {
+      "query_id": "q55",
+      "query": "tapas in Pacific Beach",
+      "category": "cuisine",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Costa Brava",
+        "Captain's Quarters",
+        "Bar Ella"
+      ]
+    },
+    {
+      "query_id": "q59",
+      "query": "restaurant that can host a corporate event in San Diego",
+      "category": "group_events",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Callie",
+        "Puesto at The Headquarters",
+        "Salvatore's Cucina & Lounge"
+      ]
+    },
+    {
+      "query_id": "q58",
+      "query": "where to eat in Pacific Beach with a celiac friend",
+      "category": "dietary",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Breakfast Republic",
+        "Fig Tree Cafe",
+        "Trident Coffee"
+      ]
+    },
+    {
+      "query_id": "q60",
+      "query": "Greek restaurant that has been around a long time in San Diego",
+      "category": "cuisine",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "Athens Market Taverna",
+        "Georgia's Greek Cuisine",
+        "Olympic Cafe"
+      ]
+    },
+    {
+      "query_id": "q57",
+      "query": "pescatarian friendly restaurant in Pacific Beach",
+      "category": "dietary",
+      "miss_rate": 1.0,
+      "top_winners": [
+        "The Fishery",
+        "Cherryfish",
+        "JRDN"
+      ]
+    }
+  ],
+  "top_cited_sources": [
+    [
+      "yelp.com",
+      95
+    ],
+    [
+      "tripadvisor.com",
+      29
+    ],
+    [
+      "opentable.com",
+      21
+    ],
+    [
+      "pitahousesd.com",
+      11
+    ],
+    [
+      "findmeglutenfree.com",
+      11
+    ],
+    [
+      "atly.com",
+      9
+    ],
+    [
+      "sandispots.com",
+      6
+    ],
+    [
+      "sandiegorestaurants.com",
+      6
+    ],
+    [
+      "peerspace.com",
+      6
+    ],
+    [
+      "flamingodeck.com",
+      5
+    ],
+    [
+      "tagvenue.com",
+      4
+    ],
+    [
+      "shawarmahousesd.com",
+      4
+    ],
+    [
+      "lajollamom.com",
+      4
+    ],
+    [
+      "getgreece.com",
+      3
+    ],
+    [
+      "barellapb.com",
+      3
+    ]
+  ]
+}
